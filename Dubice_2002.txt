@@ -1,0 +1,10 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order
+2006	1	Sdruž.nezáv.kand. Doubice 2006	4	Jana	Fuksová		47	NK	BEZPP	46	15.38	1	*
+2006	1	Sdruž.nezáv.kand. Doubice 2006	2	Miloslav	Himmer		48	NK	BEZPP	40	13.37	3	*
+2006	1	Sdruž.nezáv.kand. Doubice 2006	6	Alena	Jašíèková		35	NK	BEZPP	31	10.36	6	*
+2006	1	Sdruž.nezáv.kand. Doubice 2006	8	Rùžena	Kleinhamplová		53	NK	BEZPP	17	5.68	1	
+2006	1	Sdruž.nezáv.kand. Doubice 2006	9	Rudolf	Lipmann		42	NK	BEZPP	30	10.3	2	
+2006	1	Sdruž.nezáv.kand. Doubice 2006	5	Jaroslav	Obešlo		49	NK	BEZPP	29	9.69	5	*
+2006	1	Sdruž.nezáv.kand. Doubice 2006	3	Karel	Rezek		51	NK	BEZPP	42	14.4	2	*
+2006	1	Sdruž.nezáv.kand. Doubice 2006	1	Božena	Stejskalová		66	NK	BEZPP	33	11.3	4	*
+2006	1	Sdruž.nezáv.kand. Doubice 2006	7	Tomáš	Vachalec	Ing. 	38	NK	BEZPP	31	10.36	7	*

@@ -1,0 +1,46 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+1998	4	Komunistická str.Èech a Moravy	8	Beneš	František		48	KSÈM	KSÈM	94	16.90	1	
+1998	5	Køes.demokr.unie-Ès.str.lid.	1	Blahovec	Josef		48	KDU-ÈSL	KDU-ÈSL	220	23.86	1	*
+1998	3	Sdru.nezáv.kand.-míst.celkem	6	Brabcová	Jaroslava		43	NK	NEZ	8	3.65	5	
+1998	3	Sdru.nezáv.kand.-míst.celkem	1	Èumrová	Helena		42	NK	NEZ	44	20.9	1	
+1998	1	Obèanská demokratická strana	4	Dolanskı	Karel		39	ODS	NEZ	57	8.32	2	
+1998	4	Komunistická str.Èech a Moravy	2	Frk	Josef		50	KSÈM	KSÈM	132	23.74	1	*
+1998	2	Sdru.nezáv.kand.-míst.celkem	2	Frnoch	Pavel		23	NK	NEZ	24	12.37	2	
+1998	1	Obèanská demokratická strana	2	Frnoch	Václav		50	ODS	NEZ	112	16.35	1	
+1998	4	Komunistická str.Èech a Moravy	5	Fürbach	Jiøí		42	KSÈM	NEZ	37	6.65	4	
+1998	3	Sdru.nezáv.kand.-míst.celkem	5	Fürbachová	Renáta		35	NK	NEZ	17	7.76	4	
+1998	5	Køes.demokr.unie-Ès.str.lid.	7	Hamtil	Oldøich		52	KDU-ÈSL	NEZ	78	8.45	4	
+1998	1	Obèanská demokratická strana	8	Holeèková	Jaroslava		35	ODS	NEZ	25	3.64	6	
+1998	3	Sdru.nezáv.kand.-míst.celkem	3	Hošková	Hana		35	NK	NEZ	10	4.56	3	
+1998	3	Sdru.nezáv.kand.-míst.celkem	2	Hošková	Petra		32	NK	NEZ	33	15.6	2	
+1998	3	Sdru.nezáv.kand.-míst.celkem	8	Houzimová	Zdena		46	NK	NEZ	25	11.41	7	
+1998	4	Komunistická str.Èech a Moravy	1	Jeøábek	Miroslav		44	KSÈM	KSÈM	96	17.26	2	*
+1998	3	Sdru.nezáv.kand.-míst.celkem	4	Jeøábková	Marie		40	NK	NEZ	65	29.68	1	*
+1998	2	Sdru.nezáv.kand.-míst.celkem	1	Jindøich	Jindøich		24	NK	NEZ	41	21.13	1	
+1998	5	Køes.demokr.unie-Ès.str.lid.	6	Kochtová	Milada		50	KDU-ÈSL	NEZ	110	11.93	3	
+1998	5	Køes.demokr.unie-Ès.str.lid.	4	Koreš	Vlastimil		29	KDU-ÈSL	NEZ	64	6.94	1	
+1998	1	Obèanská demokratická strana	3	Kotous	Miroslav		36	ODS	NEZ	127	18.54	2	*
+1998	1	Obèanská demokratická strana	9	Krajánek	Jiøí		34	ODS	NEZ	65	9.48	7	
+1998	4	Komunistická str.Èech a Moravy	9	Lazar	Jan		62	KSÈM	KSÈM	29	5.21	7	
+1998	5	Køes.demokr.unie-Ès.str.lid.	9	Louda	Jaromír		46	KDU-ÈSL	NEZ	74	8.2	6	
+1998	5	Køes.demokr.unie-Ès.str.lid.	3	Lukešová	Jana		47	KDU-ÈSL	NEZ	122	13.23	3	*
+1998	1	Obèanská demokratická strana	5	Lusk	Petr	Ing. 	37	ODS	NEZ	64	9.34	3	
+1998	4	Komunistická str.Èech a Moravy	7	Martínek	Vladimír		57	KSÈM	KSÈM	40	7.19	6	
+1998	3	Sdru.nezáv.kand.-míst.celkem	7	Mottlová	Jana		25	NK	NEZ	11	5.2	6	
+1998	1	Obèanská demokratická strana	1	Mráz	Jaroslav		54	ODS	NEZ	134	19.56	1	*
+1998	2	Sdru.nezáv.kand.-míst.celkem	3	Mráz	Jaroslav		28	NK	NEZ	44	22.68	1	*
+1998	2	Sdru.nezáv.kand.-míst.celkem	4	Mráz	Jiøí		24	NK	NEZ	21	10.82	3	
+1998	2	Sdru.nezáv.kand.-míst.celkem	6	Narovec	Josef		26	NK	NEZ	15	7.73	5	
+1998	2	Sdru.nezáv.kand.-míst.celkem	5	Pøílepková	Silvie		22	NK	NEZ	20	10.30	4	
+1998	1	Obèanská demokratická strana	7	Rolníková	Marcela		32	ODS	NEZ	34	4.96	5	
+1998	3	Sdru.nezáv.kand.-míst.celkem	9	Sládková	Irena		34	NK	NEZ	6	2.73	8	
+1998	5	Køes.demokr.unie-Ès.str.lid.	5	Slepièková	Jana		37	KDU-ÈSL	NEZ	70	7.59	2	
+1998	4	Komunistická str.Èech a Moravy	3	Smíšek	Václav		31	KSÈM	KSÈM	47	8.45	2	
+1998	4	Komunistická str.Èech a Moravy	4	Smola	Milan		40	KSÈM	KSÈM	43	7.73	3	
+1998	4	Komunistická str.Èech a Moravy	6	Stanìk	Alois		59	KSÈM	KSÈM	38	6.83	5	
+1998	5	Køes.demokr.unie-Ès.str.lid.	2	Stanìk	Jan	Ing. 	40	KDU-ÈSL	NEZ	125	13.55	2	*
+1998	2	Sdru.nezáv.kand.-míst.celkem	7	Svítivá	Jana		19	NK	NEZ	7	3.60	6	
+1998	5	Køes.demokr.unie-Ès.str.lid.	8	Šleis	Zdenìk		29	KDU-ÈSL	NEZ	59	6.39	5	
+1998	2	Sdru.nezáv.kand.-míst.celkem	9	Štìtina	Václav		20	NK	NEZ	11	5.67	8	
+1998	2	Sdru.nezáv.kand.-míst.celkem	8	Švehla	Marek		21	NK	NEZ	11	5.67	7	
+1998	1	Obèanská demokratická strana	6	Vaòatová	Jarmila	Mgr. 	52	ODS	ODS	67	9.78	4	

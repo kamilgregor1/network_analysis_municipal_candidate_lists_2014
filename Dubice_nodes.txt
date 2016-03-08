@@ -1,0 +1,39 @@
+id	list_name_1994	votes_num_1994	list_name_1998	votes_num_1998	list_name_2002	votes_num_2002	list_name_2006	votes_num_2006	list_name_2010	votes_num_2010
+Marcela Beckelová	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	36	Sdruž.nezáv.kand.-Doubice 2014 	42
+Ivo Bechynì	Sdružení nezávislých kandidátù	36	Sdruž.nezáv.kand.-míst.celkem_3	34	NA	0	NA	0	NA	0
+Lešek Bubík	NA	0	NA	0	NA	0	Doubice 2010	27	NA	0
+Miloslav Èapek	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	33	Sdruž.nezáv.kand.-Doubice 2014 	43
+Jiøí Èerný	NA	0	NA	0	NA	0	Doubice 2010	14	Sdruž.nezáv.kand.-Doubice 2014 	13
+Jan Drozd	NA	0	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.-Doubice 2014 	55
+Stanislav Faix	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	37	NA	0
+Milan Fuksa	Sdružení nezávislých kandidátù	34	NA	0	NA	0	NA	0	NA	0
+Jana Fuksová	NA	0	NA	0	Sdruž.nezáv.kand. Doubice 2006	46	NA	0	NA	0
+Jiøí Hamáèek	NA	0	NA	0	NA	0	Doubice 2010	38	NA	0
+Miloslav Himmer	NA	0	NA	0	Sdruž.nezáv.kand. Doubice 2006	40	Miloslav Himmer, NK	23	NA	0
+Milan Hladký	NA	0	NA	0	NA	0	Doubice 2010	23	NA	0
+Jana Ivanová	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	0	NA	0
+Alena Jašíèková	NA	0	NA	0	Sdruž.nezáv.kand. Doubice 2006	31	Sdruž.nez.kand.Doubice normál.	34	NA	0
+Bøetislav Jemelka	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	39	Sdruž.nezáv.kand.-Doubice 2014 	60
+Tomáš Kleinhampl	NA	0	Sdruž.nezáv.kand.-míst.celkem_2	9	NA	0	Pro Doubici	18	NA	0
+Rùžena Kleinhamplová	NA	0	NA	0	Sdruž.nezáv.kand. Doubice 2006	17	NA	0	NA	0
+Waldemar Kunert	Sdružení nezávislých kandidátù	45	Sdruž.nezáv.kand.-míst.celkem_3	43	NA	0	NA	0	NA	0
+Rudolf Lipman	Sdružení nezávislých kandidátù	40	Sdruž.nezáv.kand.-míst.celkem_3	19	NA	0	NA	0	NA	0
+Rudolf Lipmann	NA	0	Sdruž.nezáv.kand.-míst.celkem_1	12	Sdruž.nezáv.kand. Doubice 2006	30	Pro Doubici	4	NA	0
+Ivona Lipmanová	NA	0	NA	0	NA	0	Pro Doubici	9	NA	0
+Filip Molèan	NA	0	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.-Doubice 2014 	38
+Michal Müller	NA	0	NA	0	NA	0	Doubice 2010	15	NA	0
+Jaroslav Navara	NA	0	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.-Doubice 2014 	43
+Jaroslav Obešlo	Sdružení nezávislých kandidátù	44	Sdruž.nezáv.kand.-míst.celkem_1	18	Sdruž.nezáv.kand. Doubice 2006	29	Pro Doubici	6	NA	0
+Miloslav Pitner	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	32	Sdruž.nezáv.kand.-Doubice 2014 	14
+David Rezek	NA	0	NA	0	NA	0	Pro Doubici	4	NA	0
+Karel Rezek	NA	0	Sdruž.nezáv.kand.-míst.celkem_1	31	Sdruž.nezáv.kand. Doubice 2006	42	Pro Doubici	26	NA	0
+Petr Rezek	NA	0	Sdruž.nezáv.kand.-míst.celkem_1	11	NA	0	NA	0	NA	0
+Josef Sakaloš	Sdružení nezávislých kandidátù	34	Sdruž.nezáv.kand.-míst.celkem_3	17	NA	0	NA	0	NA	0
+Martin Schulz	NA	0	NA	0	NA	0	Doubice 2010	35	Sdruž.nezáv.kand.-Doubice 2014 	55
+Marek Sieber	NA	0	NA	0	NA	0	Doubice 2010	16	NA	0
+Roman Sirovátka	NA	0	Sdruž.nezáv.kand.-míst.celkem_2	11	NA	0	NA	0	NA	0
+Božena Stejskalová	Sdružení nezávislých kandidátù	39	Sdruž.nezáv.kand.-míst.celkem_3	40	Sdruž.nezáv.kand. Doubice 2006	33	NA	0	NA	0
+Anna Šikýøová	NA	0	NA	0	NA	0	Sdruž.nez.kand.Doubice normál.	32	NA	0
+Tomáš Vachalec	NA	0	NA	0	Sdruž.nezáv.kand. Doubice 2006	31	NA	0	NA	0
+Václav Vanìk	NA	0	NA	0	NA	0	Pro Doubici	2	NA	0
+Jana Zieglerová	NA	0	Sdruž.nezáv.kand.-míst.celkem_1	16	NA	0	NA	0	NA	0

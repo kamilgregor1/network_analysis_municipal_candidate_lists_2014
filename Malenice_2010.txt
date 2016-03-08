@@ -1,0 +1,43 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+2010	3	K¯esù.demokr.unie-»s.str.lid.	2	Bedna¯Ìk	Josef		41	KDU-»SL	BEZPP	70	13,86	1	-
+2010	3	K¯esù.demokr.unie-»s.str.lid.	5	Bedna¯Ìkov·	Dana		41	KDU-»SL	BEZPP	27	5,34	3	-
+2010	1	Komunistick· str.»ech a Moravy	6	Beneö	Frantiöek		60	KS»M	BEZPP	70	18,08	5	-
+2010	2	TOP 09	1	Bl·hovec	Josef		60	TOP 09	TOP 09	220	22,84	1	*
+2010	4	Sdruû.nez·v.kand. Malenice	7	Dejmek	V·clav		28	NK	BEZPP	51	13,01	2	-
+2010	2	TOP 09	5	Dolansk˝	Karel		51	TOP 09	BEZPP	97	10,07	1	-
+2010	3	K¯esù.demokr.unie-»s.str.lid.	6	Franc	Jan		53	KDU-»SL	BEZPP	20	3,96	4	-
+2010	1	Komunistick· str.»ech a Moravy	1	Frk	Josef		62	KS»M	BEZPP	141	36,43	1	*
+2010	4	Sdruû.nez·v.kand. Malenice	9	Frkov·	Iveta		27	NK	BEZPP	36	9,18	8	-
+2010	4	Sdruû.nez·v.kand. Malenice	5	Frnochov·	Lenka		35	NK	BEZPP	34	8,67	7	-
+2010	2	TOP 09	7	Frnochov·	Marie		57	TOP 09	BEZPP	74	7,68	3	-
+2010	1	Komunistick· str.»ech a Moravy	3	F¸rbach	Ji¯Ì		54	KS»M	BEZPP	26	6,71	3	-
+2010	5	ObËansk· demokratick· strana	4	Hais	ätÏp·n		32	ODS	BEZPP	12	2,89	5	-
+2010	4	Sdruû.nez·v.kand. Malenice	6	Havl·tkov·	Silvie		34	NK	BEZPP	79	20,15	1	*
+2010	5	ObËansk· demokratick· strana	9	HoleËkov·	Jaroslava		47	ODS	BEZPP	33	7,95	8	-
+2010	2	TOP 09	9	Houzim	Jan		56	TOP 09	BEZPP	104	10,79	5	-
+2010	1	Komunistick· str.»ech a Moravy	5	Je¯·bek	Miroslav		56	KS»M	BEZPP	83	21,44	1	-
+2010	4	Sdruû.nez·v.kand. Malenice	1	Kohlberger	Tom·ö		21	NK	BEZPP	34	8,67	3	-
+2010	2	TOP 09	8	Kolafov·	Dana		56	TOP 09	BEZPP	42	4,36	4	-
+2010	3	K¯esù.demokr.unie-»s.str.lid.	3	Komrska	Jakub	Mgr.	31	KDU-»SL	BEZPP	94	18,61	2	*
+2010	3	K¯esù.demokr.unie-»s.str.lid.	8	Koreö	Vlastimil		41	KDU-»SL	BEZPP	43	8,51	6	-
+2010	1	Komunistick· str.»ech a Moravy	4	K¯Ìû	Ladislav		59	KS»M	BEZPP	23	5,94	4	-
+2010	3	K¯esù.demokr.unie-»s.str.lid.	9	K˘sov·	ZdeÚka		41	KDU-»SL	BEZPP	29	5,74	7	-
+2010	2	TOP 09	6	Liöka	Ji¯Ì	Ing.	50	TOP 09	BEZPP	79	8,2	2	-
+2010	5	ObËansk· demokratick· strana	6	Luskov·	Petra	Mgr.	48	ODS	BEZPP	30	7,22	6	-
+2010	3	K¯esù.demokr.unie-»s.str.lid.	7	Marouöek	Ji¯Ì		52	KDU-»SL	BEZPP	51	10,09	5	-
+2010	4	Sdruû.nez·v.kand. Malenice	4	Marouökov·	Ludmila		26	NK	BEZPP	43	10,96	6	-
+2010	3	K¯esù.demokr.unie-»s.str.lid.	4	Mindlov·	Jana	ThMgr.	67	KDU-»SL	KDU-»SL	35	6,93	2	-
+2010	5	ObËansk· demokratick· strana	5	Mr·z	Ji¯Ì		35	ODS	BEZPP	56	13,49	3	-
+2010	5	ObËansk· demokratick· strana	7	Mr·zov·	Lenka		30	ODS	BEZPP	9	2,16	7	-
+2010	4	Sdruû.nez·v.kand. Malenice	8	Neuûil	Jaroslav		20	NK	BEZPP	71	18,11	1	-
+2010	4	Sdruû.nez·v.kand. Malenice	2	Pelech	Ji¯Ì Tade·ö		43	NK	BEZPP	11	2,8	4	-
+2010	2	TOP 09	3	Pravdov·	Miloslava	Ing.	53	TOP 09	BEZPP	108	11,21	4	*
+2010	5	ObËansk· demokratick· strana	8	P¯Ìlepkov·	Helena		57	ODS	BEZPP	58	13,97	2	-
+2010	2	TOP 09	4	RolnÌkov·	Marcela		44	TOP 09	BEZPP	138	14,33	2	*
+2010	3	K¯esù.demokr.unie-»s.str.lid.	1	SlepiËkov·	Jana	Mgr.	49	KDU-»SL	BEZPP	136	26,93	1	*
+2010	1	Komunistick· str.»ech a Moravy	2	Smola	Milan		52	KS»M	BEZPP	44	11,36	2	-
+2010	4	Sdruû.nez·v.kand. Malenice	3	SvÌtiv·	Hana		28	NK	BEZPP	33	8,41	5	-
+2010	5	ObËansk· demokratick· strana	1	SvÌtiv·	Jana		55	ODS	BEZPP	89	21,44	1	-
+2010	5	ObËansk· demokratick· strana	3	äleisov·	Martina		41	ODS	BEZPP	34	8,19	4	-
+2010	5	ObËansk· demokratick· strana	2	ävehla	Oto		34	ODS	BEZPP	94	22,65	1	*
+2010	2	TOP 09	2	Zatloukal	VladimÌr	Ing.	67	TOP 09	BEZPP	101	10,48	3	*

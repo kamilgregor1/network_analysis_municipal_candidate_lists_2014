@@ -1,0 +1,38 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+1994	4	Komunistická str.Èech a Moravy	1	Beneš	František		44	KSÈM	KSÈM	104	15.16	2	*
+1994	3	Køes.a dem.unie-Ès.str.lidová	1	Blahovec	Josef		44	KDU-ÈSL	KDU-ÈSL	195	20.14	1	*
+1994	5	Sdruení nezávislıch kandidátù	1	Èumrová	Helena		38	NK	BEZPP	44	17.46	1	
+1994	3	Køes.a dem.unie-Ès.str.lidová	9	Dejmková	Jana		35	KDU-ÈSL	BEZPP	51	5.26	6	
+1994	1	Obèanská demokratická strana	6	Dolanskı	Karel		35	ODS	BEZPP	90	7.85	4	
+1994	3	Køes.a dem.unie-Ès.str.lidová	6	Faber	Hubert		26	KDU-ÈSL	BEZPP	58	5.99	3	
+1994	5	Sdruení nezávislıch kandidátù	5	Faberová	Vìra		48	NK	BEZPP	28	11.11	5	
+1994	1	Obèanská demokratická strana	2	Frk	Jaroslav	Ing. 	38	ODS	BEZPP	158	13.78	3	*
+1994	4	Komunistická str.Èech a Moravy	2	Frk	Josef		46	KSÈM	KSÈM	150	21.86	1	*
+1994	1	Obèanská demokratická strana	9	Frnoch	Václav		46	ODS	BEZPP	147	12.82	1	
+1994	4	Komunistická str.Èech a Moravy	6	Furbach	Jiøí		38	KSÈM	BEZPP	55	8.1	4	
+1994	5	Sdruení nezávislıch kandidátù	2	Hošková	Hana		31	NK	BEZPP	14	5.55	3	
+1994	5	Sdruení nezávislıch kandidátù	3	Hošková	Petra		28	NK	BEZPP	19	7.53	4	
+1994	5	Sdruení nezávislıch kandidátù	4	Houzimová	Zdena		34	NK	BEZPP	38	15.7	2	
+1994	4	Komunistická str.Èech a Moravy	5	Hrabák	Jindøich		53	KSÈM	KSÈM	51	7.43	3	
+1994	4	Komunistická str.Èech a Moravy	3	Jeøábek	Miroslav		40	KSÈM	KSÈM	102	14.86	1	
+1994	5	Sdruení nezávislıch kandidátù	6	Jeøábková	Marie		36	NK	BEZPP	58	23.1	1	*
+1994	1	Obèanská demokratická strana	5	Kotous	Miroslav		32	ODS	BEZPP	176	15.35	2	*
+1994	4	Komunistická str.Èech a Moravy	4	Køí	Ladislav		43	KSÈM	KSÈM	67	9.76	2	
+1994	2	Nezávislí kandidáti	1	Kuhn	Pavel		56	NK	BEZPP	32	100.00		
+1994	1	Obèanská demokratická strana	3	Kunc	František	Ing. 	42	ODS	BEZPP	138	12.4	2	
+1994	3	Køes.a dem.unie-Ès.str.lidová	2	Lukešová	Jana		43	KDU-ÈSL	BEZPP	174	17.97	2	*
+1994	3	Køes.a dem.unie-Ès.str.lidová	5	Maroušek	Jiøí		36	KDU-ÈSL	BEZPP	114	11.77	2	
+1994	3	Køes.a dem.unie-Ès.str.lidová	7	Maršák	Jiøí		33	KDU-ÈSL	BEZPP	83	8.57	4	
+1994	1	Obèanská demokratická strana	1	Mráz	Jaroslav		50	ODS	BEZPP	216	18.84	1	*
+1994	3	Køes.a dem.unie-Ès.str.lidová	8	Pilnı	Jiøí		63	KDU-ÈSL	BEZPP	48	4.95	5	
+1994	1	Obèanská demokratická strana	4	Rolníková	Marcela		28	ODS	BEZPP	68	5.93	3	
+1994	5	Sdruení nezávislıch kandidátù	8	Sládková	Irena		27	NK	BEZPP	28	11.11	7	
+1994	4	Komunistická str.Èech a Moravy	7	Smíšek	Václav		27	KSÈM	KSÈM	59	8.60	5	
+1994	4	Komunistická str.Èech a Moravy	8	Smola	Milan		36	KSÈM	KSÈM	45	6.55	6	
+1994	4	Komunistická str.Èech a Moravy	9	Stanìk	Alois		55	KSÈM	KSÈM	53	7.72	7	
+1994	3	Køes.a dem.unie-Ès.str.lidová	3	Stanìk	Jan	Ing. 	36	KDU-ÈSL	BEZPP	155	16.1	3	*
+1994	1	Obèanská demokratická strana	7	Svítivá	Jana		39	ODS	BEZPP	68	5.93	5	
+1994	5	Sdruení nezávislıch kandidátù	9	Škopková	Alena		30	NK	BEZPP	9	3.57	8	
+1994	3	Køes.a dem.unie-Ès.str.lidová	4	Taliánová	Marie		50	KDU-ÈSL	BEZPP	90	9.29	1	
+1994	5	Sdruení nezávislıch kandidátù	7	Ungerová	Gertruda		55	NK	BEZPP	14	5.55	6	
+1994	1	Obèanská demokratická strana	8	Vaòatová	Jarmila	Ing. 	48	ODS	ODS	85	7.41	6	

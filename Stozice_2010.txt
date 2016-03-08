@@ -1,0 +1,37 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	
+2010	3	3_Obèanská demokratická strana	6	Èížková	Markéta		23	ODS	BEZPP	35	11,55	4	-
+2010	2	2_Sdruž.nezáv.kand. III.	8	Dolejší	Miloslava		56	NK	BEZPP	7	2,82	7	-
+2010	1	1_Sdruž.nezáv.kand. II.	9	Dolejší	Petr		29	NK	BEZPP	10	2,48	6	-
+2010	3	3_Obèanská demokratická strana	7	Frank	Václav		26	ODS	BEZPP	29	9,57	5	-
+2010	3	3_Obèanská demokratická strana	4	Hintnausová	Alena		35	ODS	BEZPP	28	9,24	2	-
+2010	4	4_Sdruž.nezáv.kand. I.	9	Honsa	Pavel		26	NK	BEZPP	33	6,5	6	-
+2010	4	4_Sdruž.nezáv.kand. I.	5	Kašpar	Luboš		36	NK	BEZPP	42	8,28	3	-
+2010	2	2_Sdruž.nezáv.kand. III.	5	Kašparová	Pavla		31	NK	BEZPP	11	4,43	5	-
+2010	3	3_Obèanská demokratická strana	3	Koláø	Pavel	Ing.	50	ODS	BEZPP	41	13,53	2	*
+2010	2	2_Sdruž.nezáv.kand. III.	1	Krejèí	Adam		36	NK	BEZPP	48	19,35	2	-
+2010	4	4_Sdruž.nezáv.kand. I.	8	Kubová	Anna		73	NK	BEZPP	32	6,31	5	-
+2010	1	1_Sdruž.nezáv.kand. II.	2	Kuèerová	Jana		66	NK	BEZPP	93	23,13	2	*
+2010	1	1_Sdruž.nezáv.kand. II.	3	Lafata	Jan		63	NK	BEZPP	93	23,13	3	*
+2010	2	2_Sdruž.nezáv.kand. III.	7	Lechner	Zdenìk		57	NK	BEZPP	39	15,72	3	-
+2010	2	2_Sdruž.nezáv.kand. III.	2	Lišková	Martina		44	NK	BEZPP	59	23,79	1	*
+2010	4	4_Sdruž.nezáv.kand. I.	6	Majer	František		53	NK	BEZPP	67	13,21	3	*
+2010	2	2_Sdruž.nezáv.kand. III.	9	Majer	Michal		27	NK	BEZPP	12	4,83	8	-
+2010	4	4_Sdruž.nezáv.kand. I.	1	Marek	František		67	NK	BEZPP	119	23,47	1	*
+2010	1	1_Sdruž.nezáv.kand. II.	8	Mráz	František		66	NK	BEZPP	19	4,72	5	-
+2010	4	4_Sdruž.nezáv.kand. I.	2	Novák	Jiøí		49	NK	BEZPP	100	19,72	2	*
+2010	2	2_Sdruž.nezáv.kand. III.	6	Pivoòka	Petr		34	NK	BEZPP	5	2,01	6	-
+2010	4	4_Sdruž.nezáv.kand. I.	7	Pivoòková	Hana		60	NK	BEZPP	26	5,12	4	-
+2010	1	1_Sdruž.nezáv.kand. II.	7	Pivoòková	Jaroslava		36	NK	BEZPP	12	2,98	4	-
+2010	3	3_Obèanská demokratická strana	5	Rybáèek	Václav		55	ODS	BEZPP	33	10,89	3	-
+2010	3	3_Obèanská demokratická strana	2	Rybáèková	Jarmila	Mgr.	46	ODS	BEZPP	51	16,83	1	*
+2010	3	3_Obèanská demokratická strana	1	Svoboda	Vlastimil		45	ODS	ODS	28	9,24	1	-
+2010	4	4_Sdruž.nezáv.kand. I.	4	Synáèek	Milan		30	NK	BEZPP	48	9,46	2	-
+2010	1	1_Sdruž.nezáv.kand. II.	1	Šíslová	Marie	Ing.	41	NK	BEZPP	101	25,12	1	*
+2010	3	3_Obèanská demokratická strana	8	Štìpka	Jan		49	ODS	BEZPP	30	9,9	6	-
+2010	1	1_Sdruž.nezáv.kand. II.	6	Vanìèek	Pavel		46	NK	BEZPP	34	8,45	3	-
+2010	2	2_Sdruž.nezáv.kand. III.	3	Vlèek	Radek		36	NK	BEZPP	57	22,98	1	-
+2010	1	1_Sdruž.nezáv.kand. II.	4	Vlèek	Zdenìk		27	NK	BEZPP	27	6,71	1	-
+2010	2	2_Sdruž.nezáv.kand. III.	4	Vlèková	Jana		36	NK	BEZPP	10	4,03	4	-
+2010	1	1_Sdruž.nezáv.kand. II.	5	Vršecká	Iveta		35	NK	BEZPP	13	3,23	2	-
+2010	4	4_Sdruž.nezáv.kand. I.	3	Vršecký	Petr		33	NK	BEZPP	40	7,88	1	-
+2010	3	3_Obèanská demokratická strana	9	Zlatohlávek	Lukáš		18	ODS	BEZPP	28	9,24	7	-

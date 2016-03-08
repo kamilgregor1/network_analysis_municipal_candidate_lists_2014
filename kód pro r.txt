@@ -1,0 +1,57 @@
+## nahrát data
+
+Stozice_1994 <- read.delim("C:/Users/NB/Desktop/komunal/Stozice_1994.txt")
+Stozice_1998 <- read.delim("C:/Users/NB/Desktop/komunal/Stozice_1998.txt")
+Stozice_2002 <- read.delim("C:/Users/NB/Desktop/komunal/Stozice_2002.txt")
+Stozice_2006 <- read.delim("C:/Users/NB/Desktop/komunal/Stozice_2006.txt")
+Stozice_2010 <- read.delim("C:/Users/NB/Desktop/komunal/Stozice_2010.txt")
+
+## vytvořit unikátní jména proměnných
+
+names(Stozice_1994)<-c("term_1994", "list_id_1994", "list_name_1994", "candid_num_1994", "candid_surname", "candid_name", "candid_title_1994", "candid_age_1994", "party_abb_1994", "aff_abb_1994", "votes_num_1994", "votes_share_1994", "candid_order_1994", "candid_seat_1994")
+names(Stozice_1998)<-c("term_1998", "list_id_1998", "list_name_1998", "candid_num_1998", "candid_surname", "candid_name", "candid_title_1998", "candid_age_1998", "party_abb_1998", "aff_abb_1998", "votes_num_1998", "votes_share_1998", "candid_order_1998", "candid_seat_1998")
+names(Stozice_2002)<-c("term_2002", "list_id_2002", "list_name_2002", "candid_num_2002", "candid_surname", "candid_name", "candid_title_2002", "candid_age_2002", "party_abb_2002", "aff_abb_2002", "votes_num_2002", "votes_share_2002", "candid_order_2002", "candid_seat_2002")
+names(Stozice_2006)<-c("term_2006", "list_id_2006", "list_name_2006", "candid_num_2006", "candid_surname", "candid_name", "candid_title_2006", "candid_age_2006", "party_abb_2006", "aff_abb_2006", "votes_num_2006", "votes_share_2006", "candid_order_2006", "candid_seat_2006")
+names(Stozice_2010)<-c("term_2010", "list_id_2010", "list_name_2010", "candid_num_2010", "candid_surname", "candid_name", "candid_title_2010", "candid_age_2010", "party_abb_2010", "aff_abb_2010", "votes_num_2010", "votes_share_2010", "candid_order_2010", "candid_seat_2010")
+
+## nahrát sloupce candid_name a candid_surname do samostatného dataframe
+
+Stozice_1994_candid<-data.frame(Stozice_1994$candid_name, Stozice_1994$candid_surname)
+Stozice_1998_candid<-data.frame(Stozice_1998$candid_name, Stozice_1998$candid_surname)
+Stozice_2002_candid<-data.frame(Stozice_2002$candid_name, Stozice_2002$candid_surname)
+Stozice_2006_candid<-data.frame(Stozice_2006$candid_name, Stozice_2006$candid_surname)
+Stozice_2010_candid<-data.frame(Stozice_2010$candid_name, Stozice_2010$candid_surname)
+
+## přejmenovat sloupce v _candid zpět na candid_name a candid_surname
+
+colnames(Stozice_1994_candid)[colnames(Stozice_1994_candid)=="Stozice_1994.candid_name"] <- "candid_name"
+colnames(Stozice_1998_candid)[colnames(Stozice_1998_candid)=="Stozice_1998.candid_name"] <- "candid_name"
+colnames(Stozice_2002_candid)[colnames(Stozice_2002_candid)=="Stozice_2002.candid_name"] <- "candid_name"
+colnames(Stozice_2006_candid)[colnames(Stozice_2006_candid)=="Stozice_2006.candid_name"] <- "candid_name"
+colnames(Stozice_2010_candid)[colnames(Stozice_2010_candid)=="Stozice_2010.candid_name"] <- "candid_name"
+
+colnames(Stozice_1994_candid)[colnames(Stozice_1994_candid)=="Stozice_1994.candid_surname"] <- "candid_surname"
+colnames(Stozice_1998_candid)[colnames(Stozice_1998_candid)=="Stozice_1998.candid_surname"] <- "candid_surname"
+colnames(Stozice_2002_candid)[colnames(Stozice_2002_candid)=="Stozice_2002.candid_surname"] <- "candid_surname"
+colnames(Stozice_2006_candid)[colnames(Stozice_2006_candid)=="Stozice_2006.candid_surname"] <- "candid_surname"
+colnames(Stozice_2010_candid)[colnames(Stozice_2010_candid)=="Stozice_2010.candid_surname"] <- "candid_surname"
+
+## sloučit dataframy se jmény kandidátů do jednoho dataframe
+
+Stozice_all_candid<-rbind(Stozice_1994_candid,Stozice_1998_candid,Stozice_2002_candid,Stozice_2006_candid,Stozice_2010_candid)
+
+## odebrati duplicity ze seznamu všech kandidátů
+
+Stozice_all_candid_unique<-Stozice_all_candid[!duplicated(Stozice_all_candid),]
+
+## sloučit seznamy kandidátů v jednotlivých volbách se seznamem všech kandidátů
+
+Stozice_all<-merge(Stozice_all_candid_unique,Stozice_1994,by=c("candid_surname","candid_name"),all.x=TRUE,all.y=TRUE)
+Stozice_all<-merge(Stozice_all,Stozice_1998,by=c("candid_surname","candid_name"),all.x=TRUE,all.y=TRUE)
+Stozice_all<-merge(Stozice_all,Stozice_2002,by=c("candid_surname","candid_name"),all.x=TRUE,all.y=TRUE)
+Stozice_all<-merge(Stozice_all,Stozice_2006,by=c("candid_surname","candid_name"),all.x=TRUE,all.y=TRUE)
+Stozice_all<-merge(Stozice_all,Stozice_2010,by=c("candid_surname","candid_name"),all.x=TRUE,all.y=TRUE)
+
+## export hotové tabulky
+
+write.table(Stozice_all, "C:/Stozice_all.txt", sep="\t")

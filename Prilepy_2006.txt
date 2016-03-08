@@ -1,0 +1,25 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	6	Jaroslav	Bazger		42	NK	BEZPP	221	10,87	3	-
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	3	Vìra	Èermáková		53	NK	BEZPP	491	11,81	3	*
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	9	Lenka	Farny		34	NK	BEZPP	393	9,46	3	-
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	7	Václav	Fryè		44	NK	BEZPP	205	10,08	4	-
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	8	Petr	Gomola		33	NK	ODS	424	10,2	2	-
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	8	Zdenìk	Hájek		39	NK	BEZPP	175	8,6	5	-
+2006	1	Komunistická str.Èech a Moravy	1	Hana	Kamenárová		42	KSÈM	BEZPP	64	20,12	-	-
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	1	Richard	Kapsa	Ing.	31	NK	BEZPP	510	12,27	1	*
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	7	Libor	Kettner		48	NK	BEZPP	465	11,19	1	-
+2006	1	Komunistická str.Èech a Moravy	5	Augusta	Koubová		71	KSÈM	KSÈM	26	8,17	-	-
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	4	Karel	Kubovec	Ing.	40	NK	BEZPP	251	12,34	3	*
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	9	Jaroslava	Kuèerová		33	NK	BEZPP	188	9,24	6	-
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	3	Antonín	Mašek		62	NK	BEZPP	231	11,36	1	-
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	4	Petr	Morysek	Ing.	36	NK	BEZPP	458	11,02	4	*
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	6	Marie	Palkosková	Ing.	48	NK	BEZPP	463	11,14	6	*
+2006	1	Komunistická str.Èech a Moravy	3	Eman	Papírník		66	KSÈM	BEZPP	72	22,64	-	-
+2006	1	Komunistická str.Èech a Moravy	6	Zdenìk	Procházka		69	KSÈM	BEZPP	39	12,26	-	-
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	1	Jiøí	Øíha		48	NK	BEZPP	272	13,37	2	*
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	2	Libuše	Smidžárová		40	NK	BEZPP	276	13,57	1	*
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	2	Jiøí	Svítek	PhDr.	48	NK	BEZPP	488	11,74	2	*
+2006	2	Sdruž.nezáv.kand.: PRO Pøílepy	5	Michal	Štengl	Ing.	28	NK	BEZPP	462	11,12	5	*
+2006	1	Komunistická str.Èech a Moravy	2	Josef	Švarc		58	KSÈM	KSÈM	66	20,75	-	-
+2006	1	Komunistická str.Èech a Moravy	4	Pavel	Švec		64	KSÈM	KSÈM	51	16,03	-	-
+2006	3	Sdruž.nez.kand.Velké Pøílepy I	5	Iveta	Vojtìchová		37	NK	BEZPP	214	10,52	2	-

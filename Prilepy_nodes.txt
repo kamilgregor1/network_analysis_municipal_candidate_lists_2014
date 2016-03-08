@@ -1,0 +1,84 @@
+id	list_name_1994	votes_num_1994	list_name_1998	votes_num_1998	list_name_2002	votes_num_2002	list_name_2006	votes_num_2006	list_name_2010	votes_num_2010
+Jaroslav Beránek	Sdružení nezávislých kandidátù	204	NA	0	NA	0	NA	0	NA	0
+Božena Bílková	Sdružení nezávislých kandidátù	54	NA	0	NA	0	NA	0	NA	0
+Jana Blažková	Sdružení nezávislých kandidátù	65	NA	0	NA	0	NA	0	NA	0
+Jiøí Bouchner	Komunistická str.Èech a Moravy	54	NA	0	NA	0	NA	0	NA	0
+Karel Brych	Sdružení nezávislých kandidátù	233	Sdruž.nezáv.kand.-míst.celkem	260	Sdruž.nezáv.kand.I.	202	NA	0	NA	0
+Martin Ceniga	Sdružení nezávislých kandidátù	113	NA	0	NA	0	NA	0	NA	0
+Milan Èervinka	Sdružení nezávislých kandidátù	292	NA	0	NA	0	NA	0	NA	0
+Marie Ebrová	Komunistická str.Èech a Moravy	81	Komunistická str.Èech a Moravy	71	Komunistická str.Èech a Moravy	40	NA	0	NA	0
+Josefa Fišerová	Komunistická str.Èech a Moravy	76	NA	0	NA	0	NA	0	NA	0
+Zdenìk Háša	Komunistická str.Èech a Moravy	128	NA	0	NA	0	NA	0	NA	0
+Ivona Hášová	Sdružení nezávislých kandidátù	57	NA	0	NA	0	NA	0	NA	0
+Antonín Chmel	Komunistická str.Èech a Moravy	61	NA	0	NA	0	NA	0	NA	0
+Jaroslav Janoušek	Sdružení nezávislých kandidátù	91	NA	0	NA	0	NA	0	NA	0
+Josef Jenèík	Komunistická str.Èech a Moravy	46	NA	0	NA	0	NA	0	NA	0
+Lubomír Kacálek	Sdružení nezávislých kandidátù	306	Sdruž.nezáv.kand.-míst.celkem	292	NA	0	NA	0	NA	0
+Václav Kalina	Sdružení nezávislých kandidátù	143	Sdruž.nezáv.kand.-míst.celkem	285	NA	0	NA	0	NA	0
+Jiøí Kastner	Komunistická str.Èech a Moravy	63	Komunistická str.Èech a Moravy	61	NA	0	NA	0	NA	0
+Jaromír Kašperský	Sdružení nezávislých kandidátù	40	NA	0	NA	0	NA	0	NA	0
+Libor Kettner	Sdružení nezávislých kandidátù	290	NA	0	Budoucnost pro Pøílepy	160	Sdruž.nezáv.kand.: PRO Pøílepy	465	PRO Pøílepy	306
+Ivo Kostiha	Sdružení nezávislých kandidátù	239	NA	0	NA	0	NA	0	NA	0
+Václav Kouba	Komunistická str.Èech a Moravy	116	Komunistická str.Èech a Moravy	78	NA	0	NA	0	NA	0
+Milan Krákora	Sdružení nezávislých kandidátù	59	NA	0	NA	0	NA	0	NA	0
+Bohuslav Krásný	Sdružení nezávislých kandidátù	94	Komunistická str.Èech a Moravy	86	Komunistická str.Èech a Moravy	59	NA	0	NA	0
+Martin Mach	Sdružení nezávislých kandidátù	52	NA	0	NA	0	NA	0	NA	0
+Emanuel Papírník	Komunistická str.Èech a Moravy	91	Komunistická str.Èech a Moravy	93	Komunistická str.Èech a Moravy	78	NA	0	NA	0
+Eman Papírník	NA	0	NA	0	NA	0	Komunistická str.Èech a Moravy	72	NA	0
+Jaroslav Øepka	Sdružení nezávislých kandidátù	230	NA	0	NA	0	NA	0	NA	0
+Jiøí Øíha	Sdružení nezávislých kandidátù	255	Sdruž.nezáv.kand.-míst.celkem	270	Sdruž.nezáv.kand.I.	272	Sdruž.nez.kand.Velké Pøílepy I	272	"\Naše Velké Pøílepy o.s.\"""""	267
+Josef Švarc	Komunistická str.Èech a Moravy	119	Komunistická str.Èech a Moravy	104	Komunistická str.Èech a Moravy	77	Komunistická str.Èech a Moravy	66	NA	0
+Pavel Švec	Komunistická str.Èech a Moravy	97	Komunistická str.Èech a Moravy	72	Komunistická str.Èech a Moravy	75	Komunistická str.Èech a Moravy	51	NA	0
+Miloslav Valenta	Sdružení nezávislých kandidátù	223	NA	0	NA	0	NA	0	NA	0
+Miroslav Valenta	NA	0	Sdruž.nezáv.kand.-míst.celkem	238	Sdruž.nezáv.kand.I.	184	NA	0	NA	0
+Jan Vichra	Sdružení nezávislých kandidátù	292	Sdruž.nezáv.kand.-míst.celkem	294	Sdruž.nezáv.kand.I.	246	NA	0	NA	0
+Karla Zavázalová	Sdružení nezávislých kandidátù	192	NA	0	NA	0	NA	0	NA	0
+Pavel Zrùbecký	Sdružení nezávislých kandidátù	116	NA	0	NA	0	NA	0	NA	0
+Josefa Fischerová	NA	0	Komunistická str.Èech a Moravy	80	NA	0	NA	0	NA	0
+Ludmila Laznová	NA	0	Sdruž.nezáv.kand.-míst.celkem	262	Budoucnost pro Pøílepy	180	NA	0	NA	0
+Antonín Mašek	NA	0	Sdruž.nezáv.kand.-míst.celkem	283	Sdruž.nezáv.kand.I.	205	Sdruž.nez.kand.Velké Pøílepy I	231	"\Naše Velké Pøílepy o.s.\"""""	236
+Zdenìk Procházka	NA	0	Komunistická str.Èech a Moravy	90	Komunistická str.Èech a Moravy	58	Komunistická str.Èech a Moravy	39	NA	0
+Pavla Øíèaøová	NA	0	Sdruž.nezáv.kand.-míst.celkem	240	NA	0	NA	0	NA	0
+Jaroslav Bazger	NA	0	NA	0	Budoucnost pro Pøílepy	134	Sdruž.nez.kand.Velké Pøílepy I	221	NA	0
+Lidmila Buchnarová	NA	0	NA	0	Budoucnost pro Pøílepy	200	NA	0	NA	0
+Zdenìk Ebr	NA	0	NA	0	Sdruž.nezáv.kand.I.	213	NA	0	NA	0
+Ivana Goèová	NA	0	NA	0	Budoucnost pro Pøílepy	164	NA	0	NA	0
+Ján Kalièiak	NA	0	NA	0	Komunistická str.Èech a Moravy	31	NA	0	NA	0
+Hana Kamenárová	NA	0	NA	0	Komunistická str.Èech a Moravy	38	Komunistická str.Èech a Moravy	64	NA	0
+Jitka Kostihová	NA	0	NA	0	Sdruž.nezáv.kand.I.	192	NA	0	NA	0
+Augusta Koubová	NA	0	NA	0	Komunistická str.Èech a Moravy	44	Komunistická str.Èech a Moravy	26	NA	0
+Libuše Latrová	NA	0	NA	0	Sdruž.nezáv.kand.I.	214	NA	0	NA	0
+Anna Øezáèová	NA	0	NA	0	Budoucnost pro Pøílepy	152	NA	0	NA	0
+Pavla Øièaøová	NA	0	NA	0	Budoucnost pro Pøílepy	155	NA	0	NA	0
+Václav Zavázal	NA	0	NA	0	Budoucnost pro Pøílepy	136	NA	0	NA	0
+Jan Zeman	NA	0	NA	0	Budoucnost pro Pøílepy	172	NA	0	NA	0
+Ondøej Žac	NA	0	NA	0	Sdruž.nezáv.kand.I.	171	NA	0	NA	0
+Vìra Èermáková	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	491	TRADICE-BUDOUCNOST	537
+Lenka Farny	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	393	NA	0
+Václav Fryè	NA	0	NA	0	NA	0	Sdruž.nez.kand.Velké Pøílepy I	205	"\Naše Velké Pøílepy o.s.\"""""	241
+Petr Gomola	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	424	NA	0
+Zdenìk Hájek	NA	0	NA	0	NA	0	Sdruž.nez.kand.Velké Pøílepy I	175	NA	0
+Richard Kapsa	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	510	PRO Pøílepy	365
+Karel Kubovec	NA	0	NA	0	NA	0	Sdruž.nez.kand.Velké Pøílepy I	251	"\Naše Velké Pøílepy o.s.\"""""	272
+Jaroslava Kuèerová	NA	0	NA	0	NA	0	Sdruž.nez.kand.Velké Pøílepy I	188	NA	0
+Petr Morysek	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	458	PRO Pøílepy	351
+Marie Palkosková	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	463	PRO Pøílepy	337
+Libuše Smidžárová	NA	0	NA	0	NA	0	Sdruž.nez.kand.Velké Pøílepy I	276	TRADICE-BUDOUCNOST	416
+Jiøí Svítek	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	488	NA	0
+Michal Štengl	NA	0	NA	0	NA	0	Sdruž.nezáv.kand.: PRO Pøílepy	462	PRO Pøílepy	341
+Iveta Vojtìchová	NA	0	NA	0	NA	0	Sdruž.nez.kand.Velké Pøílepy I	214	"\Naše Velké Pøílepy o.s.\"""""	233
+Petr Bébr	NA	0	NA	0	NA	0	NA	0	PRO Pøílepy	344
+David Beèka	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	419
+Pavel Handl	NA	0	NA	0	NA	0	NA	0	PRO Pøílepy	320
+Tomáš Hošek	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	375
+Marcel Høebaèka	NA	0	NA	0	NA	0	NA	0	"\Naše Velké Pøílepy o.s.\"""""	218
+Miroslav Chytka	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	341
+Iveta Kavková	NA	0	NA	0	NA	0	NA	0	"\Naše Velké Pøílepy o.s.\"""""	202
+Gabriela Kubová	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	326
+Michal Mihalka	NA	0	NA	0	NA	0	NA	0	PRO Pøílepy	323
+Martin Nedvìd	NA	0	NA	0	NA	0	NA	0	"\Naše Velké Pøílepy o.s.\"""""	212
+Karel Pokorný	NA	0	NA	0	NA	0	NA	0	"\Naše Velké Pøílepy o.s.\"""""	222
+Jaroslav Poštolka	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	355
+Jitka Šimková	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	405
+Stanislav Žák	NA	0	NA	0	NA	0	NA	0	TRADICE-BUDOUCNOST	389
+Josef Ženíšek	NA	0	NA	0	NA	0	NA	0	PRO Pøílepy	274

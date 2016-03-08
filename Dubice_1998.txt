@@ -1,0 +1,13 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	
+1998	3	Sdruž.nezáv.kand.-míst.celkem	4	Ivo	Bechynì		51	NK	BEZPP	34	22.22	3	*
+1998	2	Sdruž.nezáv.kand.-míst.celkem	2	Tomáš	Kleinhampl		50	NK	BEZPP	9	45.00		
+1998	3	Sdruž.nezáv.kand.-míst.celkem	5	Waldemar	Kunert		68	NK	BEZPP	43	28.10	1	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	4	Rudolf	Lipman		38	NK	BEZPP	12	13.63	2	
+1998	3	Sdruž.nezáv.kand.-míst.celkem	3	Rudolf	Lipmann		62	NK	BEZPP	19	12.41	2	
+1998	1	Sdruž.nezáv.kand.-míst.celkem	2	Jaroslav	Obešlo		45	NK	BEZPP	18	20.45	2	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	1	Karel	Rezek		47	NK	BEZPP	31	35.22	1	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	3	Petr	Rezek		51	NK	BEZPP	11	12.50	1	
+1998	3	Sdruž.nezáv.kand.-míst.celkem	2	Josef	Sakaloš		56	NK	BEZPP	17	11.11	1	
+1998	2	Sdruž.nezáv.kand.-míst.celkem	1	Roman	Sirovátka		62	NK	BEZPP	11	55.00		
+1998	3	Sdruž.nezáv.kand.-míst.celkem	1	Božena	Stejskalová		62	NK	BEZPP	40	26.14	2	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	5	Jana	Zieglerová		27	NK	BEZPP	16	18.18	3	

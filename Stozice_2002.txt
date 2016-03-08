@@ -1,0 +1,19 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+2002	2	2_Stožické sdruž. nez. kandidátù	4	Èížek	Bohuslav	Ing. 	41	NK	BEZPP	58	10.54	1	
+2002	2	2_Stožické sdruž. nez. kandidátù	5	Hoffman	Ivo		36	NK	BEZPP	67	12.18	2	
+2002	2	2_Stožické sdruž. nez. kandidátù	2	Hronek	Michal		31	NK	BEZPP	66	12.00	2	*
+2002	2	2_Stožické sdruž. nez. kandidátù	6	Hronková	Simona		23	NK	BEZPP	62	11.27	3	
+2002	2	2_Stožické sdruž. nez. kandidátù	7	Krejèí	Adam		28	NK	BEZPP	67	12.18	4	
+2002	1	1_Sdruž. nezávislých kandidátù A	3	Kuèerová	Jana		58	NK	BEZPP	106	10.48	3	*
+2002	1	1_Sdruž. nezávislých kandidátù A	6	Lafata	Jan		55	NK	BEZPP	118	11.67	6	*
+2002	2	2_Stožické sdruž. nez. kandidátù	3	Malá	Daniela		23	NK	BEZPP	55	10.00	3	*
+2002	1	1_Sdruž. nezávislých kandidátù A	1	Marek	František		59	NK	BEZPP	115	11.37	1	*
+2002	1	1_Sdruž. nezávislých kandidátù A	8	Novák	Jiøí		42	NK	BEZPP	115	11.37	2	
+2002	1	1_Sdruž. nezávislých kandidátù A	5	Pártl	Václav		39	NK	BEZPP	112	11.7	5	*
+2002	2	2_Stožické sdruž. nez. kandidátù	1	Rybáèek	Václav		47	NK	BEZPP	66	12.00	1	*
+2002	2	2_Stožické sdruž. nez. kandidátù	9	Synáèek	Milan		22	NK	BEZPP	57	10.36	6	
+2002	1	1_Sdruž. nezávislých kandidátù A	2	Šíslová	Marie	Ing. 	33	NK	BEZPP	121	11.96	2	*
+2002	1	1_Sdruž. nezávislých kandidátù A	7	Vanìèek	Pavel		38	NK	BEZPP	111	10.97	1	
+2002	2	2_Stožické sdruž. nez. kandidátù	8	Velièka	Emil		30	NK	BEZPP	52	9.45	5	
+2002	1	1_Sdruž. nezávislých kandidátù A	9	Vydlák	Stanislav	Ing. 	40	NK	BEZPP	113	11.17	3	
+2002	1	1_Sdruž. nezávislých kandidátù A	4	Zádìrová	Dana		41	NK	BEZPP	100	9.89	4	*

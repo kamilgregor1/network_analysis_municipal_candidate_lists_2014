@@ -1,0 +1,68 @@
+id	list_name_1994	votes_num_1994	list_name_1998	votes_num_1998	list_name_2002	votes_num_2002	list_name_2006	votes_num_2006	list_name_2010	votes_num_2010
+Vojtìch Boška	2_Sdružení nezávislých kandidátù	64	NA	0	NA	0	NA	0	NA	0
+Pavla Franková	1_Sdružení nezávislých kandidátù	80	NA	0	NA	0	NA	0	NA	0
+Jan Holeèek	2_Sdružení nezávislých kandidátù	115	2_Sdruž.nezáv.kand.-míst.celkem	106	NA	0	NA	0	NA	0
+Jiøí Hronek	2_Sdružení nezávislých kandidátù	96	NA	0	NA	0	NA	0	NA	0
+Václav Hronek	1_Sdružení nezávislých kandidátù	94	NA	0	NA	0	NA	0	NA	0
+Michal Hronek	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	66	5_Stožice	26	NA	0
+Daniel Hronek	NA	0	NA	0	NA	0	5_Stožice	31	NA	0
+Petr Kalianko	1_Sdružení nezávislých kandidátù	110	NA	0	NA	0	NA	0	NA	0
+Anna Kubová	1_Sdružení nezávislých kandidátù	41	2_Sdruž.nezáv.kand.-míst.celkem	50	NA	0	"2_\Stožické SNK I\"""""	18	4_Sdruž.nezáv.kand. I.	32
+Jana Kuèerová	1_Sdružení nezávislých kandidátù	76	1_Sdruž.nezáv.kand.-míst.celkem	107	1_Sdruž. nezávislých kandidátù A	106	"3_\Stožické SNK II\"""""	78	1_Sdruž.nezáv.kand. II.	93
+Jan Lafata	1_Sdružení nezávislých kandidátù	83	1_Sdruž.nezáv.kand.-míst.celkem	111	1_Sdruž. nezávislých kandidátù A	118	"3_\Stožické SNK II\"""""	78	1_Sdruž.nezáv.kand. II.	93
+František Marek	2_Sdružení nezávislých kandidátù	110	1_Sdruž.nezáv.kand.-míst.celkem	125	1_Sdruž. nezávislých kandidátù A	115	"2_\Stožické SNK I\"""""	98	4_Sdruž.nezáv.kand. I.	119
+Anna Mrázová	1_Sdružení nezávislých kandidátù	103	NA	0	NA	0	NA	0	NA	0
+Václav Pártl	1_Sdružení nezávislých kandidátù	58	3_Sdruž.nezáv.kand.-míst.celkem	52	1_Sdruž. nezávislých kandidátù A	112	"1_\Stožické SNK III\"""""	70	NA	0
+Václav Rybáèek	2_Sdružení nezávislých kandidátù	97	NA	0	2_Stožické sdruž. nez. kandidátù	66	5_Stožice	29	3_Obèanská demokratická strana	33
+Jana Vlèková	NA	0	NA	0	NA	0	NA	0	2_Sdruž.nezáv.kand. III.	10
+Marie Vlèková	2_Sdružení nezávislých kandidátù	110	NA	0	NA	0	NA	0	NA	0
+Petr Zádìra	2_Sdružení nezávislých kandidátù	40	NA	0	NA	0	NA	0	NA	0
+Jan Brùžek	NA	0	1_Sdruž.nezáv.kand.-míst.celkem	68	NA	0	NA	0	NA	0
+Bohuslav Èížek	NA	0	3_Sdruž.nezáv.kand.-míst.celkem	34	2_Stožické sdruž. nez. kandidátù	58	NA	0	NA	0
+Peter Koduš	NA	0	2_Sdruž.nezáv.kand.-míst.celkem	53	NA	0	NA	0	NA	0
+Jiøí Novák	NA	0	3_Sdruž.nezáv.kand.-míst.celkem	88	1_Sdruž. nezávislých kandidátù A	115	"2_\Stožické SNK I\"""""	80	4_Sdruž.nezáv.kand. I.	100
+Vlastimil Svoboda	NA	0	3_Sdruž.nezáv.kand.-míst.celkem	25	NA	0	4_Obèanská demokratická strana	27	3_Obèanská demokratická strana	28
+Marie Šíslová	NA	0	1_Sdruž.nezáv.kand.-míst.celkem	121	1_Sdruž. nezávislých kandidátù A	121	"3_\Stožické SNK II\"""""	93	1_Sdruž.nezáv.kand. II.	101
+Pavel Vanìèek	NA	0	3_Sdruž.nezáv.kand.-míst.celkem	68	1_Sdruž. nezávislých kandidátù A	111	"3_\Stožické SNK II\"""""	26	1_Sdruž.nezáv.kand. II.	34
+Dana Zádìrová	NA	0	2_Sdruž.nezáv.kand.-míst.celkem	56	1_Sdruž. nezávislých kandidátù A	100	"2_\Stožické SNK I\"""""	67	NA	0
+Ivo Hoffman	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	67	NA	0	NA	0
+Simona Hronková	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	62	NA	0	NA	0
+Pavlína Hronková	NA	0	NA	0	NA	0	5_Stožice	23	NA	0
+Adam Krejèí	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	67	"1_\Stožické SNK III\"""""	66	2_Sdruž.nezáv.kand. III.	48
+Daniela Malá	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	55	NA	0	NA	0
+Milan Synáèek	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	57	5_Stožice	20	4_Sdruž.nezáv.kand. I.	48
+Emil Velièka	NA	0	NA	0	2_Stožické sdruž. nez. kandidátù	52	5_Stožice	16	NA	0
+Stanislav Vydlák	NA	0	NA	0	1_Sdruž. nezávislých kandidátù A	113	NA	0	NA	0
+Markéta Èížková	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	19	3_Obèanská demokratická strana	35
+Petr Dolejší	NA	0	NA	0	NA	0	"2_\Stožické SNK I\"""""	6	1_Sdruž.nezáv.kand. II.	10
+Miloslava Dolejší	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	6	2_Sdruž.nezáv.kand. III.	7
+Václav Frank	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	20	3_Obèanská demokratická strana	29
+Ludìk Hintnaus	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	27	NA	0
+Jiøí Jiøíkovský	NA	0	NA	0	NA	0	5_Stožice	18	NA	0
+Jiøí Jiøíkovský	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	24	NA	0
+Luboš Kašpar	NA	0	NA	0	NA	0	"2_\Stožické SNK I\"""""	10	4_Sdruž.nezáv.kand. I.	42
+Pavla Kašparová	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	5	2_Sdruž.nezáv.kand. III.	11
+Jiøí Koblenc	NA	0	NA	0	NA	0	5_Stožice	24	NA	0
+Jan Kováøík	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	12	NA	0
+Zdenìk Lechner	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	17	2_Sdruž.nezáv.kand. III.	39
+Martina Lišková	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	61	2_Sdruž.nezáv.kand. III.	59
+František Majer	NA	0	NA	0	NA	0	"3_\Stožické SNK II\"""""	41	4_Sdruž.nezáv.kand. I.	67
+Michal Majer	NA	0	NA	0	NA	0	"2_\Stožické SNK I\"""""	11	2_Sdruž.nezáv.kand. III.	12
+Vlastislav Malý	NA	0	NA	0	NA	0	5_Stožice	24	NA	0
+František Mondek	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	14	NA	0
+Petr Pivoòka	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	6	2_Sdruž.nezáv.kand. III.	5
+Hana Pivoòková	NA	0	NA	0	NA	0	"2_\Stožické SNK I\"""""	8	4_Sdruž.nezáv.kand. I.	26
+Jaroslava Pivoòková	NA	0	NA	0	NA	0	"3_\Stožické SNK II\"""""	4	1_Sdruž.nezáv.kand. II.	12
+Eleonora Polívková	NA	0	NA	0	NA	0	"3_\Stožické SNK II\"""""	3	NA	0
+Miroslav Reidinger	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	27	NA	0
+Jarmila Rybáèková	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	37	3_Obèanská demokratická strana	51
+Jan Štìpka	NA	0	NA	0	NA	0	4_Obèanská demokratická strana	21	3_Obèanská demokratická strana	30
+Radek Vlèek	NA	0	NA	0	NA	0	"1_\Stožické SNK III\"""""	35	2_Sdruž.nezáv.kand. III.	57
+Zdenìk Vlèek	NA	0	NA	0	NA	0	"3_\Stožické SNK II\"""""	5	1_Sdruž.nezáv.kand. II.	27
+Iveta Vršecká	NA	0	NA	0	NA	0	"3_\Stožické SNK II\"""""	4	1_Sdruž.nezáv.kand. II.	13
+Petr Vršecký	NA	0	NA	0	NA	0	"2_\Stožické SNK I\"""""	9	4_Sdruž.nezáv.kand. I.	40
+Alena Hintnausová	NA	0	NA	0	NA	0	NA	0	3_Obèanská demokratická strana	28
+Pavel Honsa	NA	0	NA	0	NA	0	NA	0	4_Sdruž.nezáv.kand. I.	33
+Pavel Koláø	NA	0	NA	0	NA	0	NA	0	3_Obèanská demokratická strana	41
+František Mráz	NA	0	NA	0	NA	0	NA	0	1_Sdruž.nezáv.kand. II.	19
+Lukáš Zlatohlávek	NA	0	NA	0	NA	0	NA	0	3_Obèanská demokratická strana	28

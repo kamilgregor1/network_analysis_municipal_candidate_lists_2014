@@ -1,0 +1,19 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+1998	1	Sdruž.nezáv.kand.-míst.celkem	8	Karel	Brych		49	NK	BEZPP	260	10.72	1	
+1998	2	Komunistická str.Èech a Moravy	4	Marie	Ebrová		59	KSÈM	KSÈM	71	9.65	3	
+1998	2	Komunistická str.Èech a Moravy	2	Josefa	Fischerová		50	KSÈM	KSÈM	80	10.88	2	
+1998	1	Sdruž.nezáv.kand.-míst.celkem	2	Lubomír	Kacálek	Ing. 	45	NK	BEZPP	292	12.4	2	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	5	Václav	Kalina		43	NK	BEZPP	285	11.75	5	*
+1998	2	Komunistická str.Èech a Moravy	5	Jiøí	Kastner		42	KSÈM	KSÈM	61	8.29	4	
+1998	2	Komunistická str.Èech a Moravy	8	Václav	Kouba		65	KSÈM	KSÈM	78	10.61	7	
+1998	2	Komunistická str.Èech a Moravy	6	Bohuslav	Krásný		63	KSÈM	BEZPP	86	11.70	5	
+1998	1	Sdruž.nezáv.kand.-míst.celkem	7	Ludmila	Laznová	Ing. 	47	NK	BEZPP	262	10.80	7	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	4	Antonín	Mašek		54	NK	BEZPP	283	11.67	4	*
+1998	2	Komunistická str.Èech a Moravy	1	Emanuel	Papírník		58	KSÈM	BEZPP	93	12.65	2	*
+1998	2	Komunistická str.Èech a Moravy	9	Zdenìk	Procházka		61	KSÈM	BEZPP	90	12.24	1	
+1998	1	Sdruž.nezáv.kand.-míst.celkem	9	Pavla	Øíèaøová		40	NK	BEZPP	240	9.90	2	
+1998	1	Sdruž.nezáv.kand.-míst.celkem	1	Jiøí	Øíha		40	NK	BEZPP	270	11.13	1	*
+1998	2	Komunistická str.Èech a Moravy	3	Josef	Švarc		50	KSÈM	KSÈM	104	14.14	1	*
+1998	2	Komunistická str.Èech a Moravy	7	Pavel	Švec		56	KSÈM	KSÈM	72	9.79	6	
+1998	1	Sdruž.nezáv.kand.-míst.celkem	6	Miroslav	Valenta	Ing. 	44	NK	BEZPP	238	9.81	6	*
+1998	1	Sdruž.nezáv.kand.-míst.celkem	3	Jan	Vichra	Mgr. 	30	NK	BEZPP	294	12.12	3	*

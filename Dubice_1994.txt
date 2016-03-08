@@ -1,0 +1,8 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+1994	1	Sdružení nezávislých kandidátù	4	Ivo	Bechynì	47	NK	BEZPP	36	13.23	6	*	
+1994	1	Sdružení nezávislých kandidátù	5	Milan	Fuksa	47	NK	BEZPP	34	12.50	7	*	
+1994	1	Sdružení nezávislých kandidátù	6	Waldemar	Kunert	64	NK	BEZPP	45	16.54	1	*	
+1994	1	Sdružení nezávislých kandidátù	3	Rudolf	Lipman	58	NK	BEZPP	40	14.70	5	*	
+1994	1	Sdružení nezávislých kandidátù	7	Jaroslav	Obešlo	41	NK	BEZPP	44	16.17	2	*	
+1994	1	Sdružení nezávislých kandidátù	2	Josef	Sakaloš	52	NK	BEZPP	34	12.50	4	*	
+1994	1	Sdružení nezávislých kandidátù	1	Božena	Stejskalová	58	NK	BEZPP	39	14.33	3	*	

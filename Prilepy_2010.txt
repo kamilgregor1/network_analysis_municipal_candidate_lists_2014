@@ -1,0 +1,28 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+2010	3	PRO Pøílepy	6	Petr	Bébr	Ing.	30	NK	BEZPP	344	11,61	3	-
+2010	2	TRADICE-BUDOUCNOST	5	David	Beèka	Ing. Ph.D.	35	NK	BEZPP	419	11,75	1	-
+2010	2	TRADICE-BUDOUCNOST	1	Vìra	Èermáková		57	STAN	BEZPP	537	15,07	1	*
+2010	1	"""Naše Velké Pøílepy o.s."""	6	Václav	Fryè		48	NK	BEZPP	241	11,45	4	-
+2010	3	PRO Pøílepy	4	Pavel	Handl	Ing.	38	NK	BEZPP	320	10,8	1	-
+2010	2	TRADICE-BUDOUCNOST	3	Tomáš	Hošek	Ing.	31	NK	BEZPP	375	10,52	3	*
+2010	1	"""Naše Velké Pøílepy o.s."""	8	Marcel	Høebaèka		37	NK	BEZPP	218	10,36	6	-
+2010	2	TRADICE-BUDOUCNOST	9	Miroslav	Chytka		35	NK	BEZPP	341	9,57	5	-
+2010	3	PRO Pøílepy	2	Richard	Kapsa	Ing.	35	NK	BEZPP	365	12,32	1	*
+2010	1	"""Naše Velké Pøílepy o.s."""	9	Iveta	Kavková		41	NK	BEZPP	202	9,6	7	-
+2010	3	PRO Pøílepy	8	Libor	Kettner		52	NK	BEZPP	306	10,33	5	-
+2010	2	TRADICE-BUDOUCNOST	8	Gabriela	Kubová		49	STAN	BEZPP	326	9,14	4	-
+2010	1	"""Naše Velké Pøílepy o.s."""	1	Karel	Kubovec	Ing.	44	NK	BEZPP	272	12,93	1	*
+2010	1	"""Naše Velké Pøílepy o.s."""	7	Antonín	Mašek		66	NK	BEZPP	236	11,22	5	-
+2010	3	PRO Pøílepy	7	Michal	Mihalka		23	NK	BEZPP	323	10,9	4	-
+2010	3	PRO Pøílepy	1	Petr	Morysek	Ing.	40	NK	BEZPP	351	11,85	2	*
+2010	1	"""Naše Velké Pøílepy o.s."""	5	Martin	Nedvìd		37	NK	BEZPP	212	10,08	3	-
+2010	3	PRO Pøílepy	5	Marie	Palkosková	Ing.	52	NK	BEZPP	337	11,38	2	-
+2010	1	"""Naše Velké Pøílepy o.s."""	4	Karel	Pokorný	Ing.	45	NK	BEZPP	222	10,55	2	-
+2010	2	TRADICE-BUDOUCNOST	7	Jaroslav	Poštolka		51	STAN	BEZPP	355	9,96	3	-
+2010	1	"""Naše Velké Pøílepy o.s."""	3	Jiøí	Øíha		52	NK	BEZPP	267	12,69	2	*
+2010	2	TRADICE-BUDOUCNOST	2	Libuše	Smidžárová	Mgr.	43	STAN	BEZPP	416	11,67	2	*
+2010	2	TRADICE-BUDOUCNOST	4	Jitka	Šimková	PhDr.	60	STAN	BEZPP	405	11,36	4	*
+2010	3	PRO Pøílepy	3	Michal	Štengl	Ing.	32	NK	BEZPP	341	11,51	3	*
+2010	1	"""Naše Velké Pøílepy o.s."""	2	Iveta	Vojtìchová		41	NK	BEZPP	233	11,07	1	-
+2010	2	TRADICE-BUDOUCNOST	6	Stanislav	Žák	ThMgr. Ph.D.	61	NK	ODS	389	10,91	2	-
+2010	3	PRO Pøílepy	9	Josef	Ženíšek		70	NK	BEZPP	274	9,25	6	-

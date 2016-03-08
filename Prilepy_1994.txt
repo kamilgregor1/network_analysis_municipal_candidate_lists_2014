@@ -1,0 +1,34 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+1994	2	Sdružení nezávislých kandidátù	7	Jaroslav	Beránek		38	NK	BEZPP	204	7.40	1	
+1994	1	Sdružení nezávislých kandidátù	9	Božena	Bílková		58	NK	BEZPP	54	6.10	7	
+1994	1	Sdružení nezávislých kandidátù	10	Jana	Blažková		55	NK	BEZPP	65	7.35	8	
+1994	3	Komunistická str.Èech a Moravy	6	Jiøí	Bouchner		37	KSÈM	KSÈM	54	5.79	5	
+1994	2	Sdružení nezávislých kandidátù	6	Karel	Brych		45	NK	BEZPP	233	8.45	7	*
+1994	1	Sdružení nezávislých kandidátù	5	Martin	Ceniga		38	NK	BEZPP	113	12.78	1	
+1994	2	Sdružení nezávislých kandidátù	9	Milan	Èervinka		47	NK	BEZPP	292	10.59	3	*
+1994	3	Komunistická str.Èech a Moravy	7	Marie	Ebrová		55	KSÈM	KSÈM	81	8.69	6	
+1994	3	Komunistická str.Èech a Moravy	8	Josefa	Fišerová		46	KSÈM	KSÈM	76	8.15	7	
+1994	3	Komunistická str.Èech a Moravy	9	Zdenìk	Háša	Ing. 	64	KSÈM	KSÈM	128	13.73	1	*
+1994	1	Sdružení nezávislých kandidátù	11	Ivona	Hášová		57	NK	BEZPP	57	6.44	9	
+1994	3	Komunistická str.Èech a Moravy	10	Antonín	Chmel		68	KSÈM	KSÈM	61	6.54	8	
+1994	1	Sdružení nezávislých kandidátù	7	Jaroslav	Janoušek		42	NK	BEZPP	91	10.29	3	
+1994	3	Komunistická str.Èech a Moravy	11	Josef	Jenèík		71	KSÈM	KSÈM	46	4.93	9	
+1994	2	Sdružení nezávislých kandidátù	1	Lubomír	Kacálek	Ing. 	41	NK	BEZPP	306	11.10	1	*
+1994	1	Sdružení nezávislých kandidátù	1	Václav	Kalina		39	NK	BEZPP	143	16.17	1	*
+1994	3	Komunistická str.Èech a Moravy	5	Jiøí	Kastner		38	KSÈM	KSÈM	63	6.75	4	
+1994	1	Sdružení nezávislých kandidátù	6	Jaromír	Kašperský		70	NK	BEZPP	40	4.52	5	
+1994	2	Sdružení nezávislých kandidátù	3	Libor	Kettner		36	NK	BEZPP	290	10.52	4	*
+1994	2	Sdružení nezávislých kandidátù	11	Ivo	Kostiha	Ing. 	39	NK	BEZPP	239	8.67	4	
+1994	3	Komunistická str.Èech a Moravy	1	Václav	Kouba	JUDr. 	61	KSÈM	KSÈM	116	12.44	1	
+1994	1	Sdružení nezávislých kandidátù	2	Milan	Krákora		37	NK	BEZPP	59	6.67	4	
+1994	1	Sdružení nezávislých kandidátù	3	Bohuslav	Krásný		59	NK	BEZPP	94	10.63	2	
+1994	1	Sdružení nezávislých kandidátù	8	Martin	Mach		35	NK	BEZPP	52	5.88	6	
+1994	3	Komunistická str.Èech a Moravy	2	Emanuel	Papírník		54	KSÈM	BEZPP	91	9.76	3	
+1994	2	Sdružení nezávislých kandidátù	8	Jaroslav	Øepka		67	NK	BEZPP	230	8.34	2	
+1994	2	Sdružení nezávislých kandidátù	2	Jiøí	Øíha		36	NK	BEZPP	255	9.25	5	*
+1994	3	Komunistická str.Èech a Moravy	3	Josef	Švarc		46	KSÈM	KSÈM	119	12.76	2	*
+1994	3	Komunistická str.Èech a Moravy	4	Pavel	Švec		52	KSÈM	KSÈM	97	10.40	2	
+1994	2	Sdružení nezávislých kandidátù	5	Miloslav	Valenta	Ing. 	40	NK	BEZPP	223	8.9	6	*
+1994	2	Sdružení nezávislých kandidátù	4	Jan	Vichra	Mgr. 	26	NK	BEZPP	292	10.59	2	*
+1994	2	Sdružení nezávislých kandidátù	10	Karla	Zavázalová		44	NK	BEZPP	192	6.96	3	
+1994	1	Sdružení nezávislých kandidátù	4	Pavel	Zrùbecký		33	NK	BEZPP	116	13.12	2	*

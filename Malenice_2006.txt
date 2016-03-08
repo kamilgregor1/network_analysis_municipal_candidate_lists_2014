@@ -1,0 +1,24 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+2006	1	Køes.demokr.unie-Ès.str.lid.	3	Bednaøík	Josef		37	KDU-ÈSL	BEZPP	151	11,49	5	*
+2006	2	Komunistická str.Èech a Moravy	5	Beneš	František		56	KSÈM	BEZPP	87	24,43	1	-
+2006	1	Køes.demokr.unie-Ès.str.lid.	1	Bláhovec	Josef		56	KDU-ÈSL	KDU-ÈSL	241	18,34	1	*
+2006	2	Komunistická str.Èech a Moravy	1	Frk	Josef		58	KSÈM	BEZPP	135	37,92	1	*
+2006	3	Obèanská demokratická strana	8	Havlátková	Silvie	Mgr.	30	ODS	BEZPP	83	9,5	5	-
+2006	3	Obèanská demokratická strana	3	Houzim	Jan		52	ODS	BEZPP	143	16,38	2	*
+2006	3	Obèanská demokratická strana	4	Jirotka	Petr		54	ODS	BEZPP	53	6,07	2	-
+2006	1	Køes.demokr.unie-Ès.str.lid.	5	Kotous	Miroslav		44	KDU-ÈSL	BEZPP	167	12,7	4	*
+2006	1	Køes.demokr.unie-Ès.str.lid.	8	Kováø	Jiøí		31	KDU-ÈSL	KDU-ÈSL	55	4,18	3	-
+2006	2	Komunistická str.Èech a Moravy	4	Køí	Ladislav		55	KSÈM	BEZPP	41	11,51	4	-
+2006	3	Obèanská demokratická strana	2	Liška	Jiøí	Ing.	46	ODS	BEZPP	98	11,22	1	-
+2006	1	Køes.demokr.unie-Ès.str.lid.	6	Maroušek	Jiøí		48	KDU-ÈSL	BEZPP	129	9,81	1	-
+2006	3	Obèanská demokratická strana	5	Maroušková	Ludmila		22	ODS	BEZPP	68	7,78	3	-
+2006	1	Køes.demokr.unie-Ès.str.lid.	7	Maršák	Jiøí		45	KDU-ÈSL	BEZPP	116	8,82	2	-
+2006	3	Obèanská demokratická strana	7	Mráz	Jiøí		31	ODS	BEZPP	70	8,01	4	-
+2006	1	Køes.demokr.unie-Ès.str.lid.	4	Slepièková	Jana	Mgr.	45	KDU-ÈSL	BEZPP	170	12,93	2	*
+2006	2	Komunistická str.Èech a Moravy	2	Smíšek	Václav		39	KSÈM	BEZPP	53	14,88	2	-
+2006	2	Komunistická str.Èech a Moravy	3	Smola	Milan		48	KSÈM	BEZPP	40	11,23	3	-
+2006	1	Køes.demokr.unie-Ès.str.lid.	9	Stanìk	Jan	Ing.	47	KDU-ÈSL	BEZPP	117	8,9	4	-
+2006	3	Obèanská demokratická strana	1	Svítivá	Jana		51	ODS	BEZPP	170	19,47	1	*
+2006	3	Obèanská demokratická strana	9	Šrámek	Luboš		38	ODS	BEZPP	71	8,13	6	-
+2006	3	Obèanská demokratická strana	6	Štìtina	Václav		28	ODS	BEZPP	117	13,4	3	*
+2006	1	Køes.demokr.unie-Ès.str.lid.	2	Zatloukal	Vladimír	Ing.	63	KDU-ÈSL	BEZPP	168	12,78	3	*

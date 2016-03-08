@@ -1,0 +1,1374 @@
+nodedef> name VARCHAR,label VARCHAR,width DOUBLE,height DOUBLE,x DOUBLE,y DOUBLE,color VARCHAR,list_name_1994 VARCHAR,list_name_1998 VARCHAR,list_name_2002 VARCHAR,list_name_2006 VARCHAR,list_name_2010 VARCHAR,votes_num_1994 INTEGER,votes_num_1998 INTEGER,votes_num_2002 INTEGER,votes_num_2006 INTEGER,votes_num_2010 INTEGER
+František Beneš,,10.227273,10.227273,129.54984,301.40707,'240,0,14',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy",104,94,98,87,70
+Josef Frk,,19.586363,19.586363,130.79347,312.46445,'240,0,14',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy",150,132,128,135,141
+Milan Smola,,6.8,6.8,122.92511,307.49905,'240,0,14',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy",45,43,21,40,44
+Jiří Furbach,,4.427273,4.427273,122.63214,295.09067,'240,0,14',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","NA","Komunistická str.Čech a Moravy",55,37,8,0,26
+Miroslav Jeřábek,,11.940909,11.940909,138.23387,300.99338,'240,0,14',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","NA","Komunistická str.Čech a Moravy",102,96,80,0,83
+Ladislav Kříž,,4.0318184,4.0318184,118.96329,316.42108,'240,0,14',"Komunistická str.Čech a Moravy","NA","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy",67,0,36,41,23
+Václav Smíšek,,1.0,1.0,114.209984,302.75912,'4,0,31',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","NA",59,47,55,53,0
+Josef Blahovec,,30.0,30.0,186.36647,-32.801876,'242,0,255',"Křesť.a dem.unie-Čs.str.lidová","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","TOP 09",195,220,249,241,220
+Jan Staněk,,1.0,1.0,231.02144,-25.614878,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","NA",155,125,164,117,0
+Josef Bednařík,,10.227273,10.227273,214.31569,-2.3089533,'240,245,0',"NA","NA","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.",0,0,121,151,70
+Jiří Maroušek,,7.7227273,7.7227273,244.88489,-16.14214,'240,245,0',"Křesť.a dem.unie-Čs.str.lidová","NA","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.",114,0,110,129,51
+Jana Slepičková,,18.927273,18.927273,228.21793,6.002341,'240,245,0',"NA","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.",0,70,131,170,136
+Helena Čumrová,,1.0,1.0,-319.98404,-159.16066,'4,0,31',"Sdružení nezávislých kandidátů","Sdruž.nezáv.kand.-míst.celkem","SNK - Malenické ženy","NA","NA",44,44,38,0,0
+Petra Hošková,,1.0,1.0,-337.131,-149.77061,'4,0,31',"Sdružení nezávislých kandidátů","Sdruž.nezáv.kand.-míst.celkem","SNK - Malenické ženy","NA","NA",19,33,29,0,0
+Irena Sládková,,1.0,1.0,-319.8881,-183.70631,'4,0,31',"Sdružení nezávislých kandidátů","Sdruž.nezáv.kand.-míst.celkem","SNK - Malenické ženy","NA","NA",28,6,9,0,0
+Karel Dolanský,,13.786364,13.786364,24.309002,-133.30952,'242,0,255',"Občanská demokratická strana","Občanská demokratická strana","NA","NA","TOP 09",90,57,0,0,97
+Marcela Rolníková,,19.190908,19.190908,-6.640843,-139.74559,'242,0,255',"Občanská demokratická strana","Občanská demokratická strana","Občanská demokratická strana","NA","TOP 09",68,34,65,0,138
+Vlastimil Koreš,,6.668182,6.668182,264.00284,20.27096,'240,245,0',"NA","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","NA","Křesť.demokr.unie-Čs.str.lid.",0,64,95,0,43
+Jaroslav Mráz 1,,1.0,1.0,-18.878645,-168.80556,'4,0,31',"Občanská demokratická strana","Občanská demokratická strana","Občanská demokratická strana","NA","NA",216,134,90,0,0
+Jiří Mráz,,8.381818,8.381818,-179.95299,-121.74713,'0,26,255',"NA","Sdruž.nezáv.kand.-míst.celkem","Sdružení nezávislých kandidátů","Občanská demokratická strana","Občanská demokratická strana",0,21,58,70,56
+Jana Svítivá,,12.731818,12.731818,-139.2035,-155.36919,'0,26,255',"Občanská demokratická strana","Sdruž.nezáv.kand.-míst.celkem","Občanská demokratická strana","Občanská demokratická strana","Občanská demokratická strana",68,7,118,170,89
+Václav Štětina,,1.0,1.0,-189.37413,-144.15034,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","Občanská demokratická strana","Občanská demokratická strana","NA",0,11,119,117,0
+Vladimír Martínek,,1.0,1.0,144.7202,314.09735,'4,0,31',"NA","Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","NA","NA",0,40,16,0,0
+Alois Staněk,,1.0,1.0,129.60901,283.27805,'4,0,31',"Komunistická str.Čech a Moravy","Komunistická str.Čech a Moravy","NA","NA","NA",53,38,0,0,0
+Oldřich Hamtil,,1.0,1.0,240.5012,18.06309,'4,0,31',"NA","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","NA","NA",0,78,102,0,0
+Jana Lukešová,,1.0,1.0,280.58502,-7.2972503,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","Křesť.demokr.unie-Čs.str.lid.","NA","NA","NA",174,122,0,0,0
+Jiří Maršák,,1.0,1.0,228.0597,-54.869812,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","NA","NA","Křesť.demokr.unie-Čs.str.lid.","NA",83,0,0,116,0
+Zdeněk Šleis,,1.0,1.0,250.54677,12.509042,'4,0,31',"NA","Křesť.demokr.unie-Čs.str.lid.","Křesť.demokr.unie-Čs.str.lid.","NA","NA",0,59,85,0,0
+Marie Taliánová,,1.0,1.0,268.34146,-27.76988,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","NA","Křesť.demokr.unie-Čs.str.lid.","NA","NA",90,0,80,0,0
+Vladimír Zatloukal,,14.313637,14.313637,27.273857,-59.83242,'242,0,255',"NA","NA","Sdružení nezávislých kandidátů","Křesť.demokr.unie-Čs.str.lid.","TOP 09",0,0,111,168,101
+Jaroslava Brabcová,,1.0,1.0,-334.89758,-170.45926,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","SNK - Malenické ženy","NA","NA",0,8,4,0,0
+Renáta Fürbachová,,1.0,1.0,-323.73575,-128.85966,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","SNK - Malenické ženy","NA","NA",0,17,7,0,0
+Hana Hošková,,1.0,1.0,-292.11752,-166.85161,'4,0,31',"Sdružení nezávislých kandidátů","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",14,10,0,0,0
+Zdena Houzimová,,1.0,1.0,-291.56912,-186.81583,'4,0,31',"Sdružení nezávislých kandidátů","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",38,25,0,0,0
+Marie Jeřábková,,1.0,1.0,-298.2504,-146.1199,'4,0,31',"Sdružení nezávislých kandidátů","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",58,65,0,0,0
+Václav Frnoch,,1.0,1.0,19.38765,-169.05414,'4,0,31',"Občanská demokratická strana","Občanská demokratická strana","NA","NA","NA",147,112,0,0,0
+Miroslav Kotous,,1.0,1.0,79.270874,-123.44171,'4,0,31',"Občanská demokratická strana","Občanská demokratická strana","NA","Křesť.demokr.unie-Čs.str.lid.","NA",176,127,0,167,0
+Jarmila Vaňatová,,1.0,1.0,8.972127,-170.32118,'4,0,31',"Občanská demokratická strana","Občanská demokratická strana","NA","NA","NA",85,67,0,0,0
+Pavel Frnoch,,1.0,1.0,-235.09618,-106.62996,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","Sdružení nezávislých kandidátů","NA","NA",0,24,35,0,0
+Josef Narovec,,1.0,1.0,-228.61215,-124.044174,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","Sdružení nezávislých kandidátů","NA","NA",0,15,35,0,0
+Silvie Přílepková,,1.0,1.0,-227.7123,-144.72665,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","Sdružení nezávislých kandidátů","NA","NA",0,20,62,0,0
+Silvie Havlátková,,11.413636,11.413636,-159.70212,48.992535,'27,250,0',"NA","NA","NA","Občanská demokratická strana","Sdruž.nezáv.kand. Malenice",0,0,0,83,79
+Ludmila Maroušková,,6.668182,6.668182,-174.83006,50.19109,'27,250,0',"NA","NA","NA","Občanská demokratická strana","Sdruž.nezáv.kand. Malenice",0,0,0,68,43
+Jaroslava Holečková,,5.3500004,5.3500004,-49.53432,-183.92708,'0,26,255',"NA","Občanská demokratická strana","Občanská demokratická strana","NA","Občanská demokratická strana",0,25,36,0,33
+Petra Lusková,,4.9545455,4.9545455,-84.8471,-185.55739,'0,26,255',"NA","NA","Občanská demokratická strana","NA","Občanská demokratická strana",0,0,35,0,30
+Helena Přílepková,,8.645454,8.645454,-91.715866,-196.42935,'0,26,255',"NA","NA","Občanská demokratická strana","NA","Občanská demokratická strana",0,0,51,0,58
+Jan Houzim,,14.709091,14.709091,-84.08113,-69.2882,'242,0,255',"NA","NA","Sdružení nezávislých kandidátů","Občanská demokratická strana","TOP 09",0,0,70,143,104
+Petr Jirotka,,1.0,1.0,-142.58322,-65.77566,'4,0,31',"NA","NA","Sdružení nezávislých kandidátů","Občanská demokratická strana","NA",0,0,39,53,0
+Jiří Liška,,11.413636,11.413636,-59.215435,-94.70619,'242,0,255',"NA","NA","Občanská demokratická strana","Občanská demokratická strana","TOP 09",0,0,86,98,79
+Dana Bednaříková,,4.559091,4.559091,233.30504,57.272125,'240,245,0',"NA","NA","NA","NA","Křesť.demokr.unie-Čs.str.lid.",0,0,0,0,27
+Jan Franc,,3.6363637,3.6363637,275.55487,58.734787,'240,245,0',"NA","NA","NA","NA","Křesť.demokr.unie-Čs.str.lid.",0,0,0,0,20
+Jakub Komrska,,13.390909,13.390909,251.43488,45.943832,'240,245,0',"NA","NA","NA","NA","Křesť.demokr.unie-Čs.str.lid.",0,0,0,0,94
+Jiří Kovář,,1.0,1.0,181.9869,-56.55319,'4,0,31',"NA","NA","NA","Křesť.demokr.unie-Čs.str.lid.","NA",0,0,0,55,0
+Zdeňka Kůsová,,4.822727,4.822727,279.0115,45.47937,'240,245,0',"NA","NA","NA","NA","Křesť.demokr.unie-Čs.str.lid.",0,0,0,0,29
+Jana Mindlová,,5.6136365,5.6136365,252.87143,60.851646,'240,245,0',"NA","NA","NA","NA","Křesť.demokr.unie-Čs.str.lid.",0,0,0,0,35
+Jindřich Hrabák,,1.0,1.0,105.12841,279.03265,'4,0,31',"Komunistická str.Čech a Moravy","NA","NA","NA","NA",51,0,0,0,0
+Jan Lazar,,1.0,1.0,145.24641,275.7009,'4,0,31',"NA","Komunistická str.Čech a Moravy","NA","NA","NA",0,29,0,0,0
+Gabriela Smolová,,1.0,1.0,101.773056,320.16885,'4,0,31',"NA","NA","Komunistická str.Čech a Moravy","NA","NA",0,0,11,0,0
+Jana Dejmková,,1.0,1.0,292.17807,-33.784916,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","NA","NA","NA","NA",51,0,0,0,0
+Hubert Faber,,1.0,1.0,289.6538,-46.0285,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","NA","NA","NA","NA",58,0,0,0,0
+Marie Frnochová,,10.754545,10.754545,45.20796,-73.236,'242,0,255',"NA","NA","NA","NA","TOP 09",0,0,0,0,74
+Milada Kochtová,,1.0,1.0,260.22015,46.549793,'4,0,31',"NA","Křesť.demokr.unie-Čs.str.lid.","NA","NA","NA",0,110,0,0,0
+Dana Kolafová,,6.5363636,6.5363636,30.30421,-82.092224,'242,0,255',"NA","NA","NA","NA","TOP 09",0,0,0,0,42
+Jaromír Louda,,1.0,1.0,239.75916,49.000458,'4,0,31',"NA","Křesť.demokr.unie-Čs.str.lid.","NA","NA","NA",0,74,0,0,0
+Jiří Pilný,,1.0,1.0,279.0724,-53.35981,'4,0,31',"Křesť.a dem.unie-Čs.str.lidová","NA","NA","NA","NA",48,0,0,0,0
+Miloslava Pravdová,,15.236364,15.236364,43.842457,-86.35469,'242,0,255',"NA","NA","NA","NA","TOP 09",0,0,0,0,108
+Kateřina Čumrová,,1.0,1.0,-394.20053,-151.7706,'4,0,31',"NA","NA","SNK - Malenické ženy","NA","NA",0,0,3,0,0
+Jindřich Jindřich,,1.0,1.0,-262.8824,-181.35358,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",0,41,0,0,0
+Zdeňka Kotousová,,1.0,1.0,-389.3724,-181.23398,'4,0,31',"NA","NA","SNK - Malenické ženy","NA","NA",0,0,45,0,0
+Jana Mottlová,,1.0,1.0,-285.5635,-116.40051,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",0,11,0,0,0
+Jaroslav Mráz 2,,1.0,1.0,-265.67474,-158.16849,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",0,44,0,0,0
+Yveta Sládková,,1.0,1.0,-393.86838,-171.09427,'4,0,31',"NA","NA","SNK - Malenické ženy","NA","NA",0,0,8,0,0
+Jana Smíšková,,1.0,1.0,-400.55838,-162.34612,'4,0,31',"NA","NA","SNK - Malenické ženy","NA","NA",0,0,4,0,0
+Marek Švehla,,1.0,1.0,-273.66077,-134.43756,'4,0,31',"NA","Sdruž.nezáv.kand.-míst.celkem","NA","NA","NA",0,11,0,0,0
+Věra Faberová,,1.0,1.0,-354.92346,-196.7649,'4,0,31',"Sdružení nezávislých kandidátů","NA","NA","NA","NA",28,0,0,0,0
+Alena Škopková,,1.0,1.0,-362.12894,-147.533,'4,0,31',"Sdružení nezávislých kandidátů","NA","NA","NA","NA",9,0,0,0,0
+Gertruda Ungerová,,1.0,1.0,-340.18658,-204.91902,'4,0,31',"Sdružení nezávislých kandidátů","NA","NA","NA","NA",14,0,0,0,0
+Václav Dejmek,,7.7227273,7.7227273,-174.57324,145.61874,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,51
+Iveta Frková,,5.7454543,5.7454543,-192.0527,164.99835,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,36
+Lenka Frnochová,,5.481818,5.481818,-187.87807,150.84071,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,34
+Tomáš Kohlberger,,5.481818,5.481818,-202.75395,142.90102,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,34
+Jaroslav Neužil,,10.359091,10.359091,-203.3065,156.5969,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,71
+Jiří Tadeáš Pelech,,2.45,2.45,-188.97089,137.13792,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,11
+Hana Svítivá,,5.3500004,5.3500004,-177.32007,160.74016,'27,250,0',"NA","NA","NA","NA","Sdruž.nezáv.kand. Malenice",0,0,0,0,33
+Jaroslav Frk,,1.0,1.0,32.331825,-186.6174,'4,0,31',"Občanská demokratická strana","NA","NA","NA","NA",158,0,0,0,0
+Jiří Krajánek,,1.0,1.0,-64.62026,-126.79654,'4,0,31',"NA","Občanská demokratická strana","Sdružení nezávislých kandidátů","NA","NA",0,65,92,0,0
+František Kunc,,1.0,1.0,20.363096,-193.70078,'4,0,31',"Občanská demokratická strana","NA","NA","NA","NA",138,0,0,0,0
+Petr Lusk,,1.0,1.0,31.750633,-161.38393,'4,0,31',"NA","Občanská demokratická strana","NA","NA","NA",0,64,0,0,0
+Jan Kolafa,,1.0,1.0,-138.38968,-87.6932,'4,0,31',"NA","NA","Sdružení nezávislých kandidátů","NA","NA",0,0,71,0,0
+Štěpán Hais,,2.581818,2.581818,-96.74544,-224.55536,'0,26,255',"NA","NA","NA","NA","Občanská demokratická strana",0,0,0,0,12
+Lenka Mrázová,,2.1863637,2.1863637,-75.10171,-224.60457,'0,26,255',"NA","NA","NA","NA","Občanská demokratická strana",0,0,0,0,9
+Martina Šleisová,,5.481818,5.481818,-78.345245,-213.3796,'0,26,255',"NA","NA","NA","NA","Občanská demokratická strana",0,0,0,0,34
+Oto Švehla,,13.390909,13.390909,-84.81718,-230.99307,'0,26,255',"NA","NA","NA","NA","Občanská demokratická strana",0,0,0,0,94
+Luboš Šrámek,,1.0,1.0,-141.50755,-39.055153,'4,0,31',"NA","NA","NA","Občanská demokratická strana","NA",0,0,0,71,0
+Petra Mrázová,,1.0,1.0,-74.25881,-164.9198,'4,0,31',"NA","NA","Občanská demokratická strana","NA","NA",0,0,38,0,0
+Pavel Kuhn,,1.0,1.0,507.71844,-276.6075,'4,0,31',"Nezávislí kandidáti","NA","NA","NA","NA",32,0,0,0,0
+edgedef> node1,node2,weight DOUBLE,directed BOOLEAN
+František Beneš,Josef Frk,5.0,true
+František Beneš,Milan Smola,5.0,true
+František Beneš,Jiří Furbach,4.0,true
+František Beneš,Miroslav Jeřábek,4.0,true
+František Beneš,Ladislav Kříž,4.0,true
+František Beneš,Václav Smíšek,4.0,true
+František Beneš,Vladimír Martínek,2.0,true
+František Beneš,Alois Staněk,2.0,true
+František Beneš,Jindřich Hrabák,1.0,true
+František Beneš,Jan Lazar,1.0,true
+František Beneš,Gabriela Smolová,1.0,true
+Josef Frk,František Beneš,5.0,true
+Josef Frk,Milan Smola,5.0,true
+Josef Frk,Jiří Furbach,4.0,true
+Josef Frk,Miroslav Jeřábek,4.0,true
+Josef Frk,Ladislav Kříž,4.0,true
+Josef Frk,Václav Smíšek,4.0,true
+Josef Frk,Vladimír Martínek,2.0,true
+Josef Frk,Alois Staněk,2.0,true
+Josef Frk,Jindřich Hrabák,1.0,true
+Josef Frk,Jan Lazar,1.0,true
+Josef Frk,Gabriela Smolová,1.0,true
+Milan Smola,František Beneš,5.0,true
+Milan Smola,Josef Frk,5.0,true
+Milan Smola,Jiří Furbach,4.0,true
+Milan Smola,Miroslav Jeřábek,4.0,true
+Milan Smola,Ladislav Kříž,4.0,true
+Milan Smola,Václav Smíšek,4.0,true
+Milan Smola,Vladimír Martínek,2.0,true
+Milan Smola,Alois Staněk,2.0,true
+Milan Smola,Jindřich Hrabák,1.0,true
+Milan Smola,Jan Lazar,1.0,true
+Milan Smola,Gabriela Smolová,1.0,true
+Jiří Furbach,František Beneš,4.0,true
+Jiří Furbach,Josef Frk,4.0,true
+Jiří Furbach,Milan Smola,4.0,true
+Jiří Furbach,Miroslav Jeřábek,4.0,true
+Jiří Furbach,Ladislav Kříž,3.0,true
+Jiří Furbach,Václav Smíšek,3.0,true
+Jiří Furbach,Vladimír Martínek,2.0,true
+Jiří Furbach,Alois Staněk,2.0,true
+Jiří Furbach,Jindřich Hrabák,1.0,true
+Jiří Furbach,Jan Lazar,1.0,true
+Jiří Furbach,Gabriela Smolová,1.0,true
+Miroslav Jeřábek,František Beneš,4.0,true
+Miroslav Jeřábek,Josef Frk,4.0,true
+Miroslav Jeřábek,Milan Smola,4.0,true
+Miroslav Jeřábek,Jiří Furbach,4.0,true
+Miroslav Jeřábek,Ladislav Kříž,3.0,true
+Miroslav Jeřábek,Václav Smíšek,3.0,true
+Miroslav Jeřábek,Vladimír Martínek,2.0,true
+Miroslav Jeřábek,Alois Staněk,2.0,true
+Miroslav Jeřábek,Jindřich Hrabák,1.0,true
+Miroslav Jeřábek,Jan Lazar,1.0,true
+Miroslav Jeřábek,Gabriela Smolová,1.0,true
+Ladislav Kříž,František Beneš,4.0,true
+Ladislav Kříž,Josef Frk,4.0,true
+Ladislav Kříž,Milan Smola,4.0,true
+Ladislav Kříž,Jiří Furbach,3.0,true
+Ladislav Kříž,Miroslav Jeřábek,3.0,true
+Ladislav Kříž,Václav Smíšek,3.0,true
+Ladislav Kříž,Vladimír Martínek,1.0,true
+Ladislav Kříž,Alois Staněk,1.0,true
+Ladislav Kříž,Jindřich Hrabák,1.0,true
+Ladislav Kříž,Gabriela Smolová,1.0,true
+Václav Smíšek,František Beneš,4.0,true
+Václav Smíšek,Josef Frk,4.0,true
+Václav Smíšek,Milan Smola,4.0,true
+Václav Smíšek,Jiří Furbach,3.0,true
+Václav Smíšek,Miroslav Jeřábek,3.0,true
+Václav Smíšek,Ladislav Kříž,3.0,true
+Václav Smíšek,Vladimír Martínek,2.0,true
+Václav Smíšek,Alois Staněk,2.0,true
+Václav Smíšek,Jindřich Hrabák,1.0,true
+Václav Smíšek,Jan Lazar,1.0,true
+Václav Smíšek,Gabriela Smolová,1.0,true
+Josef Blahovec,Jan Staněk,4.0,true
+Josef Blahovec,Josef Bednařík,2.0,true
+Josef Blahovec,Jiří Maroušek,3.0,true
+Josef Blahovec,Jana Slepičková,3.0,true
+Josef Blahovec,Karel Dolanský,1.0,true
+Josef Blahovec,Marcela Rolníková,1.0,true
+Josef Blahovec,Vlastimil Koreš,2.0,true
+Josef Blahovec,Oldřich Hamtil,2.0,true
+Josef Blahovec,Jana Lukešová,2.0,true
+Josef Blahovec,Jiří Maršák,2.0,true
+Josef Blahovec,Zdeněk Šleis,2.0,true
+Josef Blahovec,Marie Taliánová,2.0,true
+Josef Blahovec,Vladimír Zatloukal,2.0,true
+Josef Blahovec,Miroslav Kotous,1.0,true
+Josef Blahovec,Jan Houzim,1.0,true
+Josef Blahovec,Jiří Liška,1.0,true
+Josef Blahovec,Jiří Kovář,1.0,true
+Josef Blahovec,Jana Dejmková,1.0,true
+Josef Blahovec,Hubert Faber,1.0,true
+Josef Blahovec,Marie Frnochová,1.0,true
+Josef Blahovec,Milada Kochtová,1.0,true
+Josef Blahovec,Dana Kolafová,1.0,true
+Josef Blahovec,Jaromír Louda,1.0,true
+Josef Blahovec,Jiří Pilný,1.0,true
+Josef Blahovec,Miloslava Pravdová,1.0,true
+Jan Staněk,Josef Blahovec,4.0,true
+Jan Staněk,Josef Bednařík,2.0,true
+Jan Staněk,Jiří Maroušek,3.0,true
+Jan Staněk,Jana Slepičková,3.0,true
+Jan Staněk,Vlastimil Koreš,2.0,true
+Jan Staněk,Oldřich Hamtil,2.0,true
+Jan Staněk,Jana Lukešová,2.0,true
+Jan Staněk,Jiří Maršák,2.0,true
+Jan Staněk,Zdeněk Šleis,2.0,true
+Jan Staněk,Marie Taliánová,2.0,true
+Jan Staněk,Vladimír Zatloukal,1.0,true
+Jan Staněk,Miroslav Kotous,1.0,true
+Jan Staněk,Jiří Kovář,1.0,true
+Jan Staněk,Jana Dejmková,1.0,true
+Jan Staněk,Hubert Faber,1.0,true
+Jan Staněk,Milada Kochtová,1.0,true
+Jan Staněk,Jaromír Louda,1.0,true
+Jan Staněk,Jiří Pilný,1.0,true
+Josef Bednařík,Josef Blahovec,2.0,true
+Josef Bednařík,Jan Staněk,2.0,true
+Josef Bednařík,Jiří Maroušek,3.0,true
+Josef Bednařík,Jana Slepičková,3.0,true
+Josef Bednařík,Vlastimil Koreš,2.0,true
+Josef Bednařík,Oldřich Hamtil,1.0,true
+Josef Bednařík,Jiří Maršák,1.0,true
+Josef Bednařík,Zdeněk Šleis,1.0,true
+Josef Bednařík,Marie Taliánová,1.0,true
+Josef Bednařík,Vladimír Zatloukal,1.0,true
+Josef Bednařík,Miroslav Kotous,1.0,true
+Josef Bednařík,Dana Bednaříková,1.0,true
+Josef Bednařík,Jan Franc,1.0,true
+Josef Bednařík,Jakub Komrska,1.0,true
+Josef Bednařík,Jiří Kovář,1.0,true
+Josef Bednařík,Zdeňka Kůsová,1.0,true
+Josef Bednařík,Jana Mindlová,1.0,true
+Jiří Maroušek,Josef Blahovec,3.0,true
+Jiří Maroušek,Jan Staněk,3.0,true
+Jiří Maroušek,Josef Bednařík,3.0,true
+Jiří Maroušek,Jana Slepičková,3.0,true
+Jiří Maroušek,Vlastimil Koreš,2.0,true
+Jiří Maroušek,Oldřich Hamtil,1.0,true
+Jiří Maroušek,Jana Lukešová,1.0,true
+Jiří Maroušek,Jiří Maršák,2.0,true
+Jiří Maroušek,Zdeněk Šleis,1.0,true
+Jiří Maroušek,Marie Taliánová,2.0,true
+Jiří Maroušek,Vladimír Zatloukal,1.0,true
+Jiří Maroušek,Miroslav Kotous,1.0,true
+Jiří Maroušek,Dana Bednaříková,1.0,true
+Jiří Maroušek,Jan Franc,1.0,true
+Jiří Maroušek,Jakub Komrska,1.0,true
+Jiří Maroušek,Jiří Kovář,1.0,true
+Jiří Maroušek,Zdeňka Kůsová,1.0,true
+Jiří Maroušek,Jana Mindlová,1.0,true
+Jiří Maroušek,Jana Dejmková,1.0,true
+Jiří Maroušek,Hubert Faber,1.0,true
+Jiří Maroušek,Jiří Pilný,1.0,true
+Jana Slepičková,Josef Blahovec,3.0,true
+Jana Slepičková,Jan Staněk,3.0,true
+Jana Slepičková,Josef Bednařík,3.0,true
+Jana Slepičková,Jiří Maroušek,3.0,true
+Jana Slepičková,Vlastimil Koreš,3.0,true
+Jana Slepičková,Oldřich Hamtil,2.0,true
+Jana Slepičková,Jana Lukešová,1.0,true
+Jana Slepičková,Jiří Maršák,1.0,true
+Jana Slepičková,Zdeněk Šleis,2.0,true
+Jana Slepičková,Marie Taliánová,1.0,true
+Jana Slepičková,Vladimír Zatloukal,1.0,true
+Jana Slepičková,Miroslav Kotous,1.0,true
+Jana Slepičková,Dana Bednaříková,1.0,true
+Jana Slepičková,Jan Franc,1.0,true
+Jana Slepičková,Jakub Komrska,1.0,true
+Jana Slepičková,Jiří Kovář,1.0,true
+Jana Slepičková,Zdeňka Kůsová,1.0,true
+Jana Slepičková,Jana Mindlová,1.0,true
+Jana Slepičková,Milada Kochtová,1.0,true
+Jana Slepičková,Jaromír Louda,1.0,true
+Helena Čumrová,Petra Hošková,3.0,true
+Helena Čumrová,Irena Sládková,3.0,true
+Helena Čumrová,Jiří Mráz,1.0,true
+Helena Čumrová,Jana Svítivá,1.0,true
+Helena Čumrová,Václav Štětina,1.0,true
+Helena Čumrová,Jaroslava Brabcová,2.0,true
+Helena Čumrová,Renáta Fürbachová,2.0,true
+Helena Čumrová,Hana Hošková,2.0,true
+Helena Čumrová,Zdena Houzimová,2.0,true
+Helena Čumrová,Marie Jeřábková,2.0,true
+Helena Čumrová,Pavel Frnoch,1.0,true
+Helena Čumrová,Josef Narovec,1.0,true
+Helena Čumrová,Silvie Přílepková,1.0,true
+Helena Čumrová,Kateřina Čumrová,1.0,true
+Helena Čumrová,Jindřich Jindřich,1.0,true
+Helena Čumrová,Zdeňka Kotousová,1.0,true
+Helena Čumrová,Jana Mottlová,1.0,true
+Helena Čumrová,Jaroslav Mráz 2,1.0,true
+Helena Čumrová,Yveta Sládková,1.0,true
+Helena Čumrová,Jana Smíšková,1.0,true
+Helena Čumrová,Marek Švehla,1.0,true
+Helena Čumrová,Věra Faberová,1.0,true
+Helena Čumrová,Alena Škopková,1.0,true
+Helena Čumrová,Gertruda Ungerová,1.0,true
+Petra Hošková,Helena Čumrová,3.0,true
+Petra Hošková,Irena Sládková,3.0,true
+Petra Hošková,Jiří Mráz,1.0,true
+Petra Hošková,Jana Svítivá,1.0,true
+Petra Hošková,Václav Štětina,1.0,true
+Petra Hošková,Jaroslava Brabcová,2.0,true
+Petra Hošková,Renáta Fürbachová,2.0,true
+Petra Hošková,Hana Hošková,2.0,true
+Petra Hošková,Zdena Houzimová,2.0,true
+Petra Hošková,Marie Jeřábková,2.0,true
+Petra Hošková,Pavel Frnoch,1.0,true
+Petra Hošková,Josef Narovec,1.0,true
+Petra Hošková,Silvie Přílepková,1.0,true
+Petra Hošková,Kateřina Čumrová,1.0,true
+Petra Hošková,Jindřich Jindřich,1.0,true
+Petra Hošková,Zdeňka Kotousová,1.0,true
+Petra Hošková,Jana Mottlová,1.0,true
+Petra Hošková,Jaroslav Mráz 2,1.0,true
+Petra Hošková,Yveta Sládková,1.0,true
+Petra Hošková,Jana Smíšková,1.0,true
+Petra Hošková,Marek Švehla,1.0,true
+Petra Hošková,Věra Faberová,1.0,true
+Petra Hošková,Alena Škopková,1.0,true
+Petra Hošková,Gertruda Ungerová,1.0,true
+Irena Sládková,Helena Čumrová,3.0,true
+Irena Sládková,Petra Hošková,3.0,true
+Irena Sládková,Jiří Mráz,1.0,true
+Irena Sládková,Jana Svítivá,1.0,true
+Irena Sládková,Václav Štětina,1.0,true
+Irena Sládková,Jaroslava Brabcová,2.0,true
+Irena Sládková,Renáta Fürbachová,2.0,true
+Irena Sládková,Hana Hošková,2.0,true
+Irena Sládková,Zdena Houzimová,2.0,true
+Irena Sládková,Marie Jeřábková,2.0,true
+Irena Sládková,Pavel Frnoch,1.0,true
+Irena Sládková,Josef Narovec,1.0,true
+Irena Sládková,Silvie Přílepková,1.0,true
+Irena Sládková,Kateřina Čumrová,1.0,true
+Irena Sládková,Jindřich Jindřich,1.0,true
+Irena Sládková,Zdeňka Kotousová,1.0,true
+Irena Sládková,Jana Mottlová,1.0,true
+Irena Sládková,Jaroslav Mráz 2,1.0,true
+Irena Sládková,Yveta Sládková,1.0,true
+Irena Sládková,Jana Smíšková,1.0,true
+Irena Sládková,Marek Švehla,1.0,true
+Irena Sládková,Věra Faberová,1.0,true
+Irena Sládková,Alena Škopková,1.0,true
+Irena Sládková,Gertruda Ungerová,1.0,true
+Karel Dolanský,Josef Blahovec,1.0,true
+Karel Dolanský,Marcela Rolníková,3.0,true
+Karel Dolanský,Jaroslav Mráz 1,2.0,true
+Karel Dolanský,Jana Svítivá,1.0,true
+Karel Dolanský,Vladimír Zatloukal,1.0,true
+Karel Dolanský,Václav Frnoch,2.0,true
+Karel Dolanský,Miroslav Kotous,2.0,true
+Karel Dolanský,Jarmila Vaňatová,2.0,true
+Karel Dolanský,Jaroslava Holečková,1.0,true
+Karel Dolanský,Jan Houzim,1.0,true
+Karel Dolanský,Jiří Liška,1.0,true
+Karel Dolanský,Marie Frnochová,1.0,true
+Karel Dolanský,Dana Kolafová,1.0,true
+Karel Dolanský,Miloslava Pravdová,1.0,true
+Karel Dolanský,Jaroslav Frk,1.0,true
+Karel Dolanský,Jiří Krajánek,1.0,true
+Karel Dolanský,František Kunc,1.0,true
+Karel Dolanský,Petr Lusk,1.0,true
+Marcela Rolníková,Josef Blahovec,1.0,true
+Marcela Rolníková,Karel Dolanský,3.0,true
+Marcela Rolníková,Jaroslav Mráz 1,3.0,true
+Marcela Rolníková,Jana Svítivá,2.0,true
+Marcela Rolníková,Václav Štětina,1.0,true
+Marcela Rolníková,Vladimír Zatloukal,1.0,true
+Marcela Rolníková,Václav Frnoch,2.0,true
+Marcela Rolníková,Miroslav Kotous,2.0,true
+Marcela Rolníková,Jarmila Vaňatová,2.0,true
+Marcela Rolníková,Jaroslava Holečková,2.0,true
+Marcela Rolníková,Petra Lusková,1.0,true
+Marcela Rolníková,Helena Přílepková,1.0,true
+Marcela Rolníková,Jan Houzim,1.0,true
+Marcela Rolníková,Jiří Liška,2.0,true
+Marcela Rolníková,Marie Frnochová,1.0,true
+Marcela Rolníková,Dana Kolafová,1.0,true
+Marcela Rolníková,Miloslava Pravdová,1.0,true
+Marcela Rolníková,Jaroslav Frk,1.0,true
+Marcela Rolníková,Jiří Krajánek,1.0,true
+Marcela Rolníková,František Kunc,1.0,true
+Marcela Rolníková,Petr Lusk,1.0,true
+Marcela Rolníková,Petra Mrázová,1.0,true
+Vlastimil Koreš,Josef Blahovec,2.0,true
+Vlastimil Koreš,Jan Staněk,2.0,true
+Vlastimil Koreš,Josef Bednařík,2.0,true
+Vlastimil Koreš,Jiří Maroušek,2.0,true
+Vlastimil Koreš,Jana Slepičková,3.0,true
+Vlastimil Koreš,Oldřich Hamtil,2.0,true
+Vlastimil Koreš,Jana Lukešová,1.0,true
+Vlastimil Koreš,Zdeněk Šleis,2.0,true
+Vlastimil Koreš,Marie Taliánová,1.0,true
+Vlastimil Koreš,Dana Bednaříková,1.0,true
+Vlastimil Koreš,Jan Franc,1.0,true
+Vlastimil Koreš,Jakub Komrska,1.0,true
+Vlastimil Koreš,Zdeňka Kůsová,1.0,true
+Vlastimil Koreš,Jana Mindlová,1.0,true
+Vlastimil Koreš,Milada Kochtová,1.0,true
+Vlastimil Koreš,Jaromír Louda,1.0,true
+Jaroslav Mráz 1,Karel Dolanský,2.0,true
+Jaroslav Mráz 1,Marcela Rolníková,3.0,true
+Jaroslav Mráz 1,Jana Svítivá,2.0,true
+Jaroslav Mráz 1,Václav Štětina,1.0,true
+Jaroslav Mráz 1,Václav Frnoch,2.0,true
+Jaroslav Mráz 1,Miroslav Kotous,2.0,true
+Jaroslav Mráz 1,Jarmila Vaňatová,2.0,true
+Jaroslav Mráz 1,Jaroslava Holečková,2.0,true
+Jaroslav Mráz 1,Petra Lusková,1.0,true
+Jaroslav Mráz 1,Helena Přílepková,1.0,true
+Jaroslav Mráz 1,Jiří Liška,1.0,true
+Jaroslav Mráz 1,Jaroslav Frk,1.0,true
+Jaroslav Mráz 1,Jiří Krajánek,1.0,true
+Jaroslav Mráz 1,František Kunc,1.0,true
+Jaroslav Mráz 1,Petr Lusk,1.0,true
+Jaroslav Mráz 1,Petra Mrázová,1.0,true
+Jiří Mráz,Helena Čumrová,1.0,true
+Jiří Mráz,Petra Hošková,1.0,true
+Jiří Mráz,Irena Sládková,1.0,true
+Jiří Mráz,Jana Svítivá,3.0,true
+Jiří Mráz,Václav Štětina,2.0,true
+Jiří Mráz,Vladimír Zatloukal,1.0,true
+Jiří Mráz,Jaroslava Brabcová,1.0,true
+Jiří Mráz,Renáta Fürbachová,1.0,true
+Jiří Mráz,Hana Hošková,1.0,true
+Jiří Mráz,Zdena Houzimová,1.0,true
+Jiří Mráz,Marie Jeřábková,1.0,true
+Jiří Mráz,Pavel Frnoch,2.0,true
+Jiří Mráz,Josef Narovec,2.0,true
+Jiří Mráz,Silvie Přílepková,2.0,true
+Jiří Mráz,Silvie Havlátková,1.0,true
+Jiří Mráz,Ludmila Maroušková,1.0,true
+Jiří Mráz,Jaroslava Holečková,1.0,true
+Jiří Mráz,Petra Lusková,1.0,true
+Jiří Mráz,Helena Přílepková,1.0,true
+Jiří Mráz,Jan Houzim,2.0,true
+Jiří Mráz,Petr Jirotka,2.0,true
+Jiří Mráz,Jiří Liška,1.0,true
+Jiří Mráz,Jindřich Jindřich,1.0,true
+Jiří Mráz,Jana Mottlová,1.0,true
+Jiří Mráz,Jaroslav Mráz 2,1.0,true
+Jiří Mráz,Marek Švehla,1.0,true
+Jiří Mráz,Jiří Krajánek,1.0,true
+Jiří Mráz,Jan Kolafa,1.0,true
+Jiří Mráz,Štěpán Hais,1.0,true
+Jiří Mráz,Lenka Mrázová,1.0,true
+Jiří Mráz,Martina Šleisová,1.0,true
+Jiří Mráz,Oto Švehla,1.0,true
+Jiří Mráz,Luboš Šrámek,1.0,true
+Jana Svítivá,Helena Čumrová,1.0,true
+Jana Svítivá,Petra Hošková,1.0,true
+Jana Svítivá,Irena Sládková,1.0,true
+Jana Svítivá,Karel Dolanský,1.0,true
+Jana Svítivá,Marcela Rolníková,2.0,true
+Jana Svítivá,Jaroslav Mráz 1,2.0,true
+Jana Svítivá,Jiří Mráz,3.0,true
+Jana Svítivá,Václav Štětina,3.0,true
+Jana Svítivá,Jaroslava Brabcová,1.0,true
+Jana Svítivá,Renáta Fürbachová,1.0,true
+Jana Svítivá,Hana Hošková,1.0,true
+Jana Svítivá,Zdena Houzimová,1.0,true
+Jana Svítivá,Marie Jeřábková,1.0,true
+Jana Svítivá,Václav Frnoch,1.0,true
+Jana Svítivá,Miroslav Kotous,1.0,true
+Jana Svítivá,Jarmila Vaňatová,1.0,true
+Jana Svítivá,Pavel Frnoch,1.0,true
+Jana Svítivá,Josef Narovec,1.0,true
+Jana Svítivá,Silvie Přílepková,1.0,true
+Jana Svítivá,Silvie Havlátková,1.0,true
+Jana Svítivá,Ludmila Maroušková,1.0,true
+Jana Svítivá,Jaroslava Holečková,2.0,true
+Jana Svítivá,Petra Lusková,2.0,true
+Jana Svítivá,Helena Přílepková,2.0,true
+Jana Svítivá,Jan Houzim,1.0,true
+Jana Svítivá,Petr Jirotka,1.0,true
+Jana Svítivá,Jiří Liška,2.0,true
+Jana Svítivá,Jindřich Jindřich,1.0,true
+Jana Svítivá,Jana Mottlová,1.0,true
+Jana Svítivá,Jaroslav Mráz 2,1.0,true
+Jana Svítivá,Marek Švehla,1.0,true
+Jana Svítivá,Jaroslav Frk,1.0,true
+Jana Svítivá,František Kunc,1.0,true
+Jana Svítivá,Štěpán Hais,1.0,true
+Jana Svítivá,Lenka Mrázová,1.0,true
+Jana Svítivá,Martina Šleisová,1.0,true
+Jana Svítivá,Oto Švehla,1.0,true
+Jana Svítivá,Luboš Šrámek,1.0,true
+Jana Svítivá,Petra Mrázová,1.0,true
+Václav Štětina,Helena Čumrová,1.0,true
+Václav Štětina,Petra Hošková,1.0,true
+Václav Štětina,Irena Sládková,1.0,true
+Václav Štětina,Marcela Rolníková,1.0,true
+Václav Štětina,Jaroslav Mráz 1,1.0,true
+Václav Štětina,Jiří Mráz,2.0,true
+Václav Štětina,Jana Svítivá,3.0,true
+Václav Štětina,Jaroslava Brabcová,1.0,true
+Václav Štětina,Renáta Fürbachová,1.0,true
+Václav Štětina,Hana Hošková,1.0,true
+Václav Štětina,Zdena Houzimová,1.0,true
+Václav Štětina,Marie Jeřábková,1.0,true
+Václav Štětina,Pavel Frnoch,1.0,true
+Václav Štětina,Josef Narovec,1.0,true
+Václav Štětina,Silvie Přílepková,1.0,true
+Václav Štětina,Silvie Havlátková,1.0,true
+Václav Štětina,Ludmila Maroušková,1.0,true
+Václav Štětina,Jaroslava Holečková,1.0,true
+Václav Štětina,Petra Lusková,1.0,true
+Václav Štětina,Helena Přílepková,1.0,true
+Václav Štětina,Jan Houzim,1.0,true
+Václav Štětina,Petr Jirotka,1.0,true
+Václav Štětina,Jiří Liška,2.0,true
+Václav Štětina,Jindřich Jindřich,1.0,true
+Václav Štětina,Jana Mottlová,1.0,true
+Václav Štětina,Jaroslav Mráz 2,1.0,true
+Václav Štětina,Marek Švehla,1.0,true
+Václav Štětina,Luboš Šrámek,1.0,true
+Václav Štětina,Petra Mrázová,1.0,true
+Vladimír Martínek,František Beneš,2.0,true
+Vladimír Martínek,Josef Frk,2.0,true
+Vladimír Martínek,Milan Smola,2.0,true
+Vladimír Martínek,Jiří Furbach,2.0,true
+Vladimír Martínek,Miroslav Jeřábek,2.0,true
+Vladimír Martínek,Ladislav Kříž,1.0,true
+Vladimír Martínek,Václav Smíšek,2.0,true
+Vladimír Martínek,Alois Staněk,1.0,true
+Vladimír Martínek,Jan Lazar,1.0,true
+Vladimír Martínek,Gabriela Smolová,1.0,true
+Alois Staněk,František Beneš,2.0,true
+Alois Staněk,Josef Frk,2.0,true
+Alois Staněk,Milan Smola,2.0,true
+Alois Staněk,Jiří Furbach,2.0,true
+Alois Staněk,Miroslav Jeřábek,2.0,true
+Alois Staněk,Ladislav Kříž,1.0,true
+Alois Staněk,Václav Smíšek,2.0,true
+Alois Staněk,Vladimír Martínek,1.0,true
+Alois Staněk,Jindřich Hrabák,1.0,true
+Alois Staněk,Jan Lazar,1.0,true
+Oldřich Hamtil,Josef Blahovec,2.0,true
+Oldřich Hamtil,Jan Staněk,2.0,true
+Oldřich Hamtil,Josef Bednařík,1.0,true
+Oldřich Hamtil,Jiří Maroušek,1.0,true
+Oldřich Hamtil,Jana Slepičková,2.0,true
+Oldřich Hamtil,Vlastimil Koreš,2.0,true
+Oldřich Hamtil,Jana Lukešová,1.0,true
+Oldřich Hamtil,Zdeněk Šleis,2.0,true
+Oldřich Hamtil,Marie Taliánová,1.0,true
+Oldřich Hamtil,Milada Kochtová,1.0,true
+Oldřich Hamtil,Jaromír Louda,1.0,true
+Jana Lukešová,Josef Blahovec,2.0,true
+Jana Lukešová,Jan Staněk,2.0,true
+Jana Lukešová,Jiří Maroušek,1.0,true
+Jana Lukešová,Jana Slepičková,1.0,true
+Jana Lukešová,Vlastimil Koreš,1.0,true
+Jana Lukešová,Oldřich Hamtil,1.0,true
+Jana Lukešová,Jiří Maršák,1.0,true
+Jana Lukešová,Zdeněk Šleis,1.0,true
+Jana Lukešová,Marie Taliánová,1.0,true
+Jana Lukešová,Jana Dejmková,1.0,true
+Jana Lukešová,Hubert Faber,1.0,true
+Jana Lukešová,Milada Kochtová,1.0,true
+Jana Lukešová,Jaromír Louda,1.0,true
+Jana Lukešová,Jiří Pilný,1.0,true
+Jiří Maršák,Josef Blahovec,2.0,true
+Jiří Maršák,Jan Staněk,2.0,true
+Jiří Maršák,Josef Bednařík,1.0,true
+Jiří Maršák,Jiří Maroušek,2.0,true
+Jiří Maršák,Jana Slepičková,1.0,true
+Jiří Maršák,Jana Lukešová,1.0,true
+Jiří Maršák,Marie Taliánová,1.0,true
+Jiří Maršák,Vladimír Zatloukal,1.0,true
+Jiří Maršák,Miroslav Kotous,1.0,true
+Jiří Maršák,Jiří Kovář,1.0,true
+Jiří Maršák,Jana Dejmková,1.0,true
+Jiří Maršák,Hubert Faber,1.0,true
+Jiří Maršák,Jiří Pilný,1.0,true
+Zdeněk Šleis,Josef Blahovec,2.0,true
+Zdeněk Šleis,Jan Staněk,2.0,true
+Zdeněk Šleis,Josef Bednařík,1.0,true
+Zdeněk Šleis,Jiří Maroušek,1.0,true
+Zdeněk Šleis,Jana Slepičková,2.0,true
+Zdeněk Šleis,Vlastimil Koreš,2.0,true
+Zdeněk Šleis,Oldřich Hamtil,2.0,true
+Zdeněk Šleis,Jana Lukešová,1.0,true
+Zdeněk Šleis,Marie Taliánová,1.0,true
+Zdeněk Šleis,Milada Kochtová,1.0,true
+Zdeněk Šleis,Jaromír Louda,1.0,true
+Marie Taliánová,Josef Blahovec,2.0,true
+Marie Taliánová,Jan Staněk,2.0,true
+Marie Taliánová,Josef Bednařík,1.0,true
+Marie Taliánová,Jiří Maroušek,2.0,true
+Marie Taliánová,Jana Slepičková,1.0,true
+Marie Taliánová,Vlastimil Koreš,1.0,true
+Marie Taliánová,Oldřich Hamtil,1.0,true
+Marie Taliánová,Jana Lukešová,1.0,true
+Marie Taliánová,Jiří Maršák,1.0,true
+Marie Taliánová,Zdeněk Šleis,1.0,true
+Marie Taliánová,Jana Dejmková,1.0,true
+Marie Taliánová,Hubert Faber,1.0,true
+Marie Taliánová,Jiří Pilný,1.0,true
+Vladimír Zatloukal,Josef Blahovec,2.0,true
+Vladimír Zatloukal,Jan Staněk,1.0,true
+Vladimír Zatloukal,Josef Bednařík,1.0,true
+Vladimír Zatloukal,Jiří Maroušek,1.0,true
+Vladimír Zatloukal,Jana Slepičková,1.0,true
+Vladimír Zatloukal,Karel Dolanský,1.0,true
+Vladimír Zatloukal,Marcela Rolníková,1.0,true
+Vladimír Zatloukal,Jiří Mráz,1.0,true
+Vladimír Zatloukal,Jiří Maršák,1.0,true
+Vladimír Zatloukal,Miroslav Kotous,1.0,true
+Vladimír Zatloukal,Pavel Frnoch,1.0,true
+Vladimír Zatloukal,Josef Narovec,1.0,true
+Vladimír Zatloukal,Silvie Přílepková,1.0,true
+Vladimír Zatloukal,Jan Houzim,2.0,true
+Vladimír Zatloukal,Petr Jirotka,1.0,true
+Vladimír Zatloukal,Jiří Liška,1.0,true
+Vladimír Zatloukal,Jiří Kovář,1.0,true
+Vladimír Zatloukal,Marie Frnochová,1.0,true
+Vladimír Zatloukal,Dana Kolafová,1.0,true
+Vladimír Zatloukal,Miloslava Pravdová,1.0,true
+Vladimír Zatloukal,Jiří Krajánek,1.0,true
+Vladimír Zatloukal,Jan Kolafa,1.0,true
+Jaroslava Brabcová,Helena Čumrová,2.0,true
+Jaroslava Brabcová,Petra Hošková,2.0,true
+Jaroslava Brabcová,Irena Sládková,2.0,true
+Jaroslava Brabcová,Jiří Mráz,1.0,true
+Jaroslava Brabcová,Jana Svítivá,1.0,true
+Jaroslava Brabcová,Václav Štětina,1.0,true
+Jaroslava Brabcová,Renáta Fürbachová,2.0,true
+Jaroslava Brabcová,Hana Hošková,1.0,true
+Jaroslava Brabcová,Zdena Houzimová,1.0,true
+Jaroslava Brabcová,Marie Jeřábková,1.0,true
+Jaroslava Brabcová,Pavel Frnoch,1.0,true
+Jaroslava Brabcová,Josef Narovec,1.0,true
+Jaroslava Brabcová,Silvie Přílepková,1.0,true
+Jaroslava Brabcová,Kateřina Čumrová,1.0,true
+Jaroslava Brabcová,Jindřich Jindřich,1.0,true
+Jaroslava Brabcová,Zdeňka Kotousová,1.0,true
+Jaroslava Brabcová,Jana Mottlová,1.0,true
+Jaroslava Brabcová,Jaroslav Mráz 2,1.0,true
+Jaroslava Brabcová,Yveta Sládková,1.0,true
+Jaroslava Brabcová,Jana Smíšková,1.0,true
+Jaroslava Brabcová,Marek Švehla,1.0,true
+Renáta Fürbachová,Helena Čumrová,2.0,true
+Renáta Fürbachová,Petra Hošková,2.0,true
+Renáta Fürbachová,Irena Sládková,2.0,true
+Renáta Fürbachová,Jiří Mráz,1.0,true
+Renáta Fürbachová,Jana Svítivá,1.0,true
+Renáta Fürbachová,Václav Štětina,1.0,true
+Renáta Fürbachová,Jaroslava Brabcová,2.0,true
+Renáta Fürbachová,Hana Hošková,1.0,true
+Renáta Fürbachová,Zdena Houzimová,1.0,true
+Renáta Fürbachová,Marie Jeřábková,1.0,true
+Renáta Fürbachová,Pavel Frnoch,1.0,true
+Renáta Fürbachová,Josef Narovec,1.0,true
+Renáta Fürbachová,Silvie Přílepková,1.0,true
+Renáta Fürbachová,Kateřina Čumrová,1.0,true
+Renáta Fürbachová,Jindřich Jindřich,1.0,true
+Renáta Fürbachová,Zdeňka Kotousová,1.0,true
+Renáta Fürbachová,Jana Mottlová,1.0,true
+Renáta Fürbachová,Jaroslav Mráz 2,1.0,true
+Renáta Fürbachová,Yveta Sládková,1.0,true
+Renáta Fürbachová,Jana Smíšková,1.0,true
+Renáta Fürbachová,Marek Švehla,1.0,true
+Hana Hošková,Helena Čumrová,2.0,true
+Hana Hošková,Petra Hošková,2.0,true
+Hana Hošková,Irena Sládková,2.0,true
+Hana Hošková,Jiří Mráz,1.0,true
+Hana Hošková,Jana Svítivá,1.0,true
+Hana Hošková,Václav Štětina,1.0,true
+Hana Hošková,Jaroslava Brabcová,1.0,true
+Hana Hošková,Renáta Fürbachová,1.0,true
+Hana Hošková,Zdena Houzimová,2.0,true
+Hana Hošková,Marie Jeřábková,2.0,true
+Hana Hošková,Pavel Frnoch,1.0,true
+Hana Hošková,Josef Narovec,1.0,true
+Hana Hošková,Silvie Přílepková,1.0,true
+Hana Hošková,Jindřich Jindřich,1.0,true
+Hana Hošková,Jana Mottlová,1.0,true
+Hana Hošková,Jaroslav Mráz 2,1.0,true
+Hana Hošková,Marek Švehla,1.0,true
+Hana Hošková,Věra Faberová,1.0,true
+Hana Hošková,Alena Škopková,1.0,true
+Hana Hošková,Gertruda Ungerová,1.0,true
+Zdena Houzimová,Helena Čumrová,2.0,true
+Zdena Houzimová,Petra Hošková,2.0,true
+Zdena Houzimová,Irena Sládková,2.0,true
+Zdena Houzimová,Jiří Mráz,1.0,true
+Zdena Houzimová,Jana Svítivá,1.0,true
+Zdena Houzimová,Václav Štětina,1.0,true
+Zdena Houzimová,Jaroslava Brabcová,1.0,true
+Zdena Houzimová,Renáta Fürbachová,1.0,true
+Zdena Houzimová,Hana Hošková,2.0,true
+Zdena Houzimová,Marie Jeřábková,2.0,true
+Zdena Houzimová,Pavel Frnoch,1.0,true
+Zdena Houzimová,Josef Narovec,1.0,true
+Zdena Houzimová,Silvie Přílepková,1.0,true
+Zdena Houzimová,Jindřich Jindřich,1.0,true
+Zdena Houzimová,Jana Mottlová,1.0,true
+Zdena Houzimová,Jaroslav Mráz 2,1.0,true
+Zdena Houzimová,Marek Švehla,1.0,true
+Zdena Houzimová,Věra Faberová,1.0,true
+Zdena Houzimová,Alena Škopková,1.0,true
+Zdena Houzimová,Gertruda Ungerová,1.0,true
+Marie Jeřábková,Helena Čumrová,2.0,true
+Marie Jeřábková,Petra Hošková,2.0,true
+Marie Jeřábková,Irena Sládková,2.0,true
+Marie Jeřábková,Jiří Mráz,1.0,true
+Marie Jeřábková,Jana Svítivá,1.0,true
+Marie Jeřábková,Václav Štětina,1.0,true
+Marie Jeřábková,Jaroslava Brabcová,1.0,true
+Marie Jeřábková,Renáta Fürbachová,1.0,true
+Marie Jeřábková,Hana Hošková,2.0,true
+Marie Jeřábková,Zdena Houzimová,2.0,true
+Marie Jeřábková,Pavel Frnoch,1.0,true
+Marie Jeřábková,Josef Narovec,1.0,true
+Marie Jeřábková,Silvie Přílepková,1.0,true
+Marie Jeřábková,Jindřich Jindřich,1.0,true
+Marie Jeřábková,Jana Mottlová,1.0,true
+Marie Jeřábková,Jaroslav Mráz 2,1.0,true
+Marie Jeřábková,Marek Švehla,1.0,true
+Marie Jeřábková,Věra Faberová,1.0,true
+Marie Jeřábková,Alena Škopková,1.0,true
+Marie Jeřábková,Gertruda Ungerová,1.0,true
+Václav Frnoch,Karel Dolanský,2.0,true
+Václav Frnoch,Marcela Rolníková,2.0,true
+Václav Frnoch,Jaroslav Mráz 1,2.0,true
+Václav Frnoch,Jana Svítivá,1.0,true
+Václav Frnoch,Miroslav Kotous,2.0,true
+Václav Frnoch,Jarmila Vaňatová,2.0,true
+Václav Frnoch,Jaroslava Holečková,1.0,true
+Václav Frnoch,Jaroslav Frk,1.0,true
+Václav Frnoch,Jiří Krajánek,1.0,true
+Václav Frnoch,František Kunc,1.0,true
+Václav Frnoch,Petr Lusk,1.0,true
+Miroslav Kotous,Josef Blahovec,1.0,true
+Miroslav Kotous,Jan Staněk,1.0,true
+Miroslav Kotous,Josef Bednařík,1.0,true
+Miroslav Kotous,Jiří Maroušek,1.0,true
+Miroslav Kotous,Jana Slepičková,1.0,true
+Miroslav Kotous,Karel Dolanský,2.0,true
+Miroslav Kotous,Marcela Rolníková,2.0,true
+Miroslav Kotous,Jaroslav Mráz 1,2.0,true
+Miroslav Kotous,Jana Svítivá,1.0,true
+Miroslav Kotous,Jiří Maršák,1.0,true
+Miroslav Kotous,Vladimír Zatloukal,1.0,true
+Miroslav Kotous,Václav Frnoch,2.0,true
+Miroslav Kotous,Jarmila Vaňatová,2.0,true
+Miroslav Kotous,Jaroslava Holečková,1.0,true
+Miroslav Kotous,Jiří Kovář,1.0,true
+Miroslav Kotous,Jaroslav Frk,1.0,true
+Miroslav Kotous,Jiří Krajánek,1.0,true
+Miroslav Kotous,František Kunc,1.0,true
+Miroslav Kotous,Petr Lusk,1.0,true
+Jarmila Vaňatová,Karel Dolanský,2.0,true
+Jarmila Vaňatová,Marcela Rolníková,2.0,true
+Jarmila Vaňatová,Jaroslav Mráz 1,2.0,true
+Jarmila Vaňatová,Jana Svítivá,1.0,true
+Jarmila Vaňatová,Václav Frnoch,2.0,true
+Jarmila Vaňatová,Miroslav Kotous,2.0,true
+Jarmila Vaňatová,Jaroslava Holečková,1.0,true
+Jarmila Vaňatová,Jaroslav Frk,1.0,true
+Jarmila Vaňatová,Jiří Krajánek,1.0,true
+Jarmila Vaňatová,František Kunc,1.0,true
+Jarmila Vaňatová,Petr Lusk,1.0,true
+Pavel Frnoch,Helena Čumrová,1.0,true
+Pavel Frnoch,Petra Hošková,1.0,true
+Pavel Frnoch,Irena Sládková,1.0,true
+Pavel Frnoch,Jiří Mráz,2.0,true
+Pavel Frnoch,Jana Svítivá,1.0,true
+Pavel Frnoch,Václav Štětina,1.0,true
+Pavel Frnoch,Vladimír Zatloukal,1.0,true
+Pavel Frnoch,Jaroslava Brabcová,1.0,true
+Pavel Frnoch,Renáta Fürbachová,1.0,true
+Pavel Frnoch,Hana Hošková,1.0,true
+Pavel Frnoch,Zdena Houzimová,1.0,true
+Pavel Frnoch,Marie Jeřábková,1.0,true
+Pavel Frnoch,Josef Narovec,2.0,true
+Pavel Frnoch,Silvie Přílepková,2.0,true
+Pavel Frnoch,Jan Houzim,1.0,true
+Pavel Frnoch,Petr Jirotka,1.0,true
+Pavel Frnoch,Jindřich Jindřich,1.0,true
+Pavel Frnoch,Jana Mottlová,1.0,true
+Pavel Frnoch,Jaroslav Mráz 2,1.0,true
+Pavel Frnoch,Marek Švehla,1.0,true
+Pavel Frnoch,Jiří Krajánek,1.0,true
+Pavel Frnoch,Jan Kolafa,1.0,true
+Josef Narovec,Helena Čumrová,1.0,true
+Josef Narovec,Petra Hošková,1.0,true
+Josef Narovec,Irena Sládková,1.0,true
+Josef Narovec,Jiří Mráz,2.0,true
+Josef Narovec,Jana Svítivá,1.0,true
+Josef Narovec,Václav Štětina,1.0,true
+Josef Narovec,Vladimír Zatloukal,1.0,true
+Josef Narovec,Jaroslava Brabcová,1.0,true
+Josef Narovec,Renáta Fürbachová,1.0,true
+Josef Narovec,Hana Hošková,1.0,true
+Josef Narovec,Zdena Houzimová,1.0,true
+Josef Narovec,Marie Jeřábková,1.0,true
+Josef Narovec,Pavel Frnoch,2.0,true
+Josef Narovec,Silvie Přílepková,2.0,true
+Josef Narovec,Jan Houzim,1.0,true
+Josef Narovec,Petr Jirotka,1.0,true
+Josef Narovec,Jindřich Jindřich,1.0,true
+Josef Narovec,Jana Mottlová,1.0,true
+Josef Narovec,Jaroslav Mráz 2,1.0,true
+Josef Narovec,Marek Švehla,1.0,true
+Josef Narovec,Jiří Krajánek,1.0,true
+Josef Narovec,Jan Kolafa,1.0,true
+Silvie Přílepková,Helena Čumrová,1.0,true
+Silvie Přílepková,Petra Hošková,1.0,true
+Silvie Přílepková,Irena Sládková,1.0,true
+Silvie Přílepková,Jiří Mráz,2.0,true
+Silvie Přílepková,Jana Svítivá,1.0,true
+Silvie Přílepková,Václav Štětina,1.0,true
+Silvie Přílepková,Vladimír Zatloukal,1.0,true
+Silvie Přílepková,Jaroslava Brabcová,1.0,true
+Silvie Přílepková,Renáta Fürbachová,1.0,true
+Silvie Přílepková,Hana Hošková,1.0,true
+Silvie Přílepková,Zdena Houzimová,1.0,true
+Silvie Přílepková,Marie Jeřábková,1.0,true
+Silvie Přílepková,Pavel Frnoch,2.0,true
+Silvie Přílepková,Josef Narovec,2.0,true
+Silvie Přílepková,Jan Houzim,1.0,true
+Silvie Přílepková,Petr Jirotka,1.0,true
+Silvie Přílepková,Jindřich Jindřich,1.0,true
+Silvie Přílepková,Jana Mottlová,1.0,true
+Silvie Přílepková,Jaroslav Mráz 2,1.0,true
+Silvie Přílepková,Marek Švehla,1.0,true
+Silvie Přílepková,Jiří Krajánek,1.0,true
+Silvie Přílepková,Jan Kolafa,1.0,true
+Silvie Havlátková,Jiří Mráz,1.0,true
+Silvie Havlátková,Jana Svítivá,1.0,true
+Silvie Havlátková,Václav Štětina,1.0,true
+Silvie Havlátková,Ludmila Maroušková,2.0,true
+Silvie Havlátková,Jan Houzim,1.0,true
+Silvie Havlátková,Petr Jirotka,1.0,true
+Silvie Havlátková,Jiří Liška,1.0,true
+Silvie Havlátková,Václav Dejmek,1.0,true
+Silvie Havlátková,Iveta Frková,1.0,true
+Silvie Havlátková,Lenka Frnochová,1.0,true
+Silvie Havlátková,Tomáš Kohlberger,1.0,true
+Silvie Havlátková,Jaroslav Neužil,1.0,true
+Silvie Havlátková,Jiří Tadeáš Pelech,1.0,true
+Silvie Havlátková,Hana Svítivá,1.0,true
+Silvie Havlátková,Luboš Šrámek,1.0,true
+Ludmila Maroušková,Jiří Mráz,1.0,true
+Ludmila Maroušková,Jana Svítivá,1.0,true
+Ludmila Maroušková,Václav Štětina,1.0,true
+Ludmila Maroušková,Silvie Havlátková,2.0,true
+Ludmila Maroušková,Jan Houzim,1.0,true
+Ludmila Maroušková,Petr Jirotka,1.0,true
+Ludmila Maroušková,Jiří Liška,1.0,true
+Ludmila Maroušková,Václav Dejmek,1.0,true
+Ludmila Maroušková,Iveta Frková,1.0,true
+Ludmila Maroušková,Lenka Frnochová,1.0,true
+Ludmila Maroušková,Tomáš Kohlberger,1.0,true
+Ludmila Maroušková,Jaroslav Neužil,1.0,true
+Ludmila Maroušková,Jiří Tadeáš Pelech,1.0,true
+Ludmila Maroušková,Hana Svítivá,1.0,true
+Ludmila Maroušková,Luboš Šrámek,1.0,true
+Jaroslava Holečková,Karel Dolanský,1.0,true
+Jaroslava Holečková,Marcela Rolníková,2.0,true
+Jaroslava Holečková,Jaroslav Mráz 1,2.0,true
+Jaroslava Holečková,Jiří Mráz,1.0,true
+Jaroslava Holečková,Jana Svítivá,2.0,true
+Jaroslava Holečková,Václav Štětina,1.0,true
+Jaroslava Holečková,Václav Frnoch,1.0,true
+Jaroslava Holečková,Miroslav Kotous,1.0,true
+Jaroslava Holečková,Jarmila Vaňatová,1.0,true
+Jaroslava Holečková,Petra Lusková,2.0,true
+Jaroslava Holečková,Helena Přílepková,2.0,true
+Jaroslava Holečková,Jiří Liška,1.0,true
+Jaroslava Holečková,Jiří Krajánek,1.0,true
+Jaroslava Holečková,Petr Lusk,1.0,true
+Jaroslava Holečková,Štěpán Hais,1.0,true
+Jaroslava Holečková,Lenka Mrázová,1.0,true
+Jaroslava Holečková,Martina Šleisová,1.0,true
+Jaroslava Holečková,Oto Švehla,1.0,true
+Jaroslava Holečková,Petra Mrázová,1.0,true
+Petra Lusková,Marcela Rolníková,1.0,true
+Petra Lusková,Jaroslav Mráz 1,1.0,true
+Petra Lusková,Jiří Mráz,1.0,true
+Petra Lusková,Jana Svítivá,2.0,true
+Petra Lusková,Václav Štětina,1.0,true
+Petra Lusková,Jaroslava Holečková,2.0,true
+Petra Lusková,Helena Přílepková,2.0,true
+Petra Lusková,Jiří Liška,1.0,true
+Petra Lusková,Štěpán Hais,1.0,true
+Petra Lusková,Lenka Mrázová,1.0,true
+Petra Lusková,Martina Šleisová,1.0,true
+Petra Lusková,Oto Švehla,1.0,true
+Petra Lusková,Petra Mrázová,1.0,true
+Helena Přílepková,Marcela Rolníková,1.0,true
+Helena Přílepková,Jaroslav Mráz 1,1.0,true
+Helena Přílepková,Jiří Mráz,1.0,true
+Helena Přílepková,Jana Svítivá,2.0,true
+Helena Přílepková,Václav Štětina,1.0,true
+Helena Přílepková,Jaroslava Holečková,2.0,true
+Helena Přílepková,Petra Lusková,2.0,true
+Helena Přílepková,Jiří Liška,1.0,true
+Helena Přílepková,Štěpán Hais,1.0,true
+Helena Přílepková,Lenka Mrázová,1.0,true
+Helena Přílepková,Martina Šleisová,1.0,true
+Helena Přílepková,Oto Švehla,1.0,true
+Helena Přílepková,Petra Mrázová,1.0,true
+Jan Houzim,Josef Blahovec,1.0,true
+Jan Houzim,Karel Dolanský,1.0,true
+Jan Houzim,Marcela Rolníková,1.0,true
+Jan Houzim,Jiří Mráz,2.0,true
+Jan Houzim,Jana Svítivá,1.0,true
+Jan Houzim,Václav Štětina,1.0,true
+Jan Houzim,Vladimír Zatloukal,2.0,true
+Jan Houzim,Pavel Frnoch,1.0,true
+Jan Houzim,Josef Narovec,1.0,true
+Jan Houzim,Silvie Přílepková,1.0,true
+Jan Houzim,Silvie Havlátková,1.0,true
+Jan Houzim,Ludmila Maroušková,1.0,true
+Jan Houzim,Petr Jirotka,2.0,true
+Jan Houzim,Jiří Liška,2.0,true
+Jan Houzim,Marie Frnochová,1.0,true
+Jan Houzim,Dana Kolafová,1.0,true
+Jan Houzim,Miloslava Pravdová,1.0,true
+Jan Houzim,Jiří Krajánek,1.0,true
+Jan Houzim,Jan Kolafa,1.0,true
+Jan Houzim,Luboš Šrámek,1.0,true
+Petr Jirotka,Jiří Mráz,2.0,true
+Petr Jirotka,Jana Svítivá,1.0,true
+Petr Jirotka,Václav Štětina,1.0,true
+Petr Jirotka,Vladimír Zatloukal,1.0,true
+Petr Jirotka,Pavel Frnoch,1.0,true
+Petr Jirotka,Josef Narovec,1.0,true
+Petr Jirotka,Silvie Přílepková,1.0,true
+Petr Jirotka,Silvie Havlátková,1.0,true
+Petr Jirotka,Ludmila Maroušková,1.0,true
+Petr Jirotka,Jan Houzim,2.0,true
+Petr Jirotka,Jiří Liška,1.0,true
+Petr Jirotka,Jiří Krajánek,1.0,true
+Petr Jirotka,Jan Kolafa,1.0,true
+Petr Jirotka,Luboš Šrámek,1.0,true
+Jiří Liška,Josef Blahovec,1.0,true
+Jiří Liška,Karel Dolanský,1.0,true
+Jiří Liška,Marcela Rolníková,2.0,true
+Jiří Liška,Jaroslav Mráz 1,1.0,true
+Jiří Liška,Jiří Mráz,1.0,true
+Jiří Liška,Jana Svítivá,2.0,true
+Jiří Liška,Václav Štětina,2.0,true
+Jiří Liška,Vladimír Zatloukal,1.0,true
+Jiří Liška,Silvie Havlátková,1.0,true
+Jiří Liška,Ludmila Maroušková,1.0,true
+Jiří Liška,Jaroslava Holečková,1.0,true
+Jiří Liška,Petra Lusková,1.0,true
+Jiří Liška,Helena Přílepková,1.0,true
+Jiří Liška,Jan Houzim,2.0,true
+Jiří Liška,Petr Jirotka,1.0,true
+Jiří Liška,Marie Frnochová,1.0,true
+Jiří Liška,Dana Kolafová,1.0,true
+Jiří Liška,Miloslava Pravdová,1.0,true
+Jiří Liška,Luboš Šrámek,1.0,true
+Jiří Liška,Petra Mrázová,1.0,true
+Dana Bednaříková,Josef Bednařík,1.0,true
+Dana Bednaříková,Jiří Maroušek,1.0,true
+Dana Bednaříková,Jana Slepičková,1.0,true
+Dana Bednaříková,Vlastimil Koreš,1.0,true
+Dana Bednaříková,Jan Franc,1.0,true
+Dana Bednaříková,Jakub Komrska,1.0,true
+Dana Bednaříková,Zdeňka Kůsová,1.0,true
+Dana Bednaříková,Jana Mindlová,1.0,true
+Jan Franc,Josef Bednařík,1.0,true
+Jan Franc,Jiří Maroušek,1.0,true
+Jan Franc,Jana Slepičková,1.0,true
+Jan Franc,Vlastimil Koreš,1.0,true
+Jan Franc,Dana Bednaříková,1.0,true
+Jan Franc,Jakub Komrska,1.0,true
+Jan Franc,Zdeňka Kůsová,1.0,true
+Jan Franc,Jana Mindlová,1.0,true
+Jakub Komrska,Josef Bednařík,1.0,true
+Jakub Komrska,Jiří Maroušek,1.0,true
+Jakub Komrska,Jana Slepičková,1.0,true
+Jakub Komrska,Vlastimil Koreš,1.0,true
+Jakub Komrska,Dana Bednaříková,1.0,true
+Jakub Komrska,Jan Franc,1.0,true
+Jakub Komrska,Zdeňka Kůsová,1.0,true
+Jakub Komrska,Jana Mindlová,1.0,true
+Jiří Kovář,Josef Blahovec,1.0,true
+Jiří Kovář,Jan Staněk,1.0,true
+Jiří Kovář,Josef Bednařík,1.0,true
+Jiří Kovář,Jiří Maroušek,1.0,true
+Jiří Kovář,Jana Slepičková,1.0,true
+Jiří Kovář,Jiří Maršák,1.0,true
+Jiří Kovář,Vladimír Zatloukal,1.0,true
+Jiří Kovář,Miroslav Kotous,1.0,true
+Zdeňka Kůsová,Josef Bednařík,1.0,true
+Zdeňka Kůsová,Jiří Maroušek,1.0,true
+Zdeňka Kůsová,Jana Slepičková,1.0,true
+Zdeňka Kůsová,Vlastimil Koreš,1.0,true
+Zdeňka Kůsová,Dana Bednaříková,1.0,true
+Zdeňka Kůsová,Jan Franc,1.0,true
+Zdeňka Kůsová,Jakub Komrska,1.0,true
+Zdeňka Kůsová,Jana Mindlová,1.0,true
+Jana Mindlová,Josef Bednařík,1.0,true
+Jana Mindlová,Jiří Maroušek,1.0,true
+Jana Mindlová,Jana Slepičková,1.0,true
+Jana Mindlová,Vlastimil Koreš,1.0,true
+Jana Mindlová,Dana Bednaříková,1.0,true
+Jana Mindlová,Jan Franc,1.0,true
+Jana Mindlová,Jakub Komrska,1.0,true
+Jana Mindlová,Zdeňka Kůsová,1.0,true
+Jindřich Hrabák,František Beneš,1.0,true
+Jindřich Hrabák,Josef Frk,1.0,true
+Jindřich Hrabák,Milan Smola,1.0,true
+Jindřich Hrabák,Jiří Furbach,1.0,true
+Jindřich Hrabák,Miroslav Jeřábek,1.0,true
+Jindřich Hrabák,Ladislav Kříž,1.0,true
+Jindřich Hrabák,Václav Smíšek,1.0,true
+Jindřich Hrabák,Alois Staněk,1.0,true
+Jan Lazar,František Beneš,1.0,true
+Jan Lazar,Josef Frk,1.0,true
+Jan Lazar,Milan Smola,1.0,true
+Jan Lazar,Jiří Furbach,1.0,true
+Jan Lazar,Miroslav Jeřábek,1.0,true
+Jan Lazar,Václav Smíšek,1.0,true
+Jan Lazar,Vladimír Martínek,1.0,true
+Jan Lazar,Alois Staněk,1.0,true
+Gabriela Smolová,František Beneš,1.0,true
+Gabriela Smolová,Josef Frk,1.0,true
+Gabriela Smolová,Milan Smola,1.0,true
+Gabriela Smolová,Jiří Furbach,1.0,true
+Gabriela Smolová,Miroslav Jeřábek,1.0,true
+Gabriela Smolová,Ladislav Kříž,1.0,true
+Gabriela Smolová,Václav Smíšek,1.0,true
+Gabriela Smolová,Vladimír Martínek,1.0,true
+Jana Dejmková,Josef Blahovec,1.0,true
+Jana Dejmková,Jan Staněk,1.0,true
+Jana Dejmková,Jiří Maroušek,1.0,true
+Jana Dejmková,Jana Lukešová,1.0,true
+Jana Dejmková,Jiří Maršák,1.0,true
+Jana Dejmková,Marie Taliánová,1.0,true
+Jana Dejmková,Hubert Faber,1.0,true
+Jana Dejmková,Jiří Pilný,1.0,true
+Hubert Faber,Josef Blahovec,1.0,true
+Hubert Faber,Jan Staněk,1.0,true
+Hubert Faber,Jiří Maroušek,1.0,true
+Hubert Faber,Jana Lukešová,1.0,true
+Hubert Faber,Jiří Maršák,1.0,true
+Hubert Faber,Marie Taliánová,1.0,true
+Hubert Faber,Jana Dejmková,1.0,true
+Hubert Faber,Jiří Pilný,1.0,true
+Marie Frnochová,Josef Blahovec,1.0,true
+Marie Frnochová,Karel Dolanský,1.0,true
+Marie Frnochová,Marcela Rolníková,1.0,true
+Marie Frnochová,Vladimír Zatloukal,1.0,true
+Marie Frnochová,Jan Houzim,1.0,true
+Marie Frnochová,Jiří Liška,1.0,true
+Marie Frnochová,Dana Kolafová,1.0,true
+Marie Frnochová,Miloslava Pravdová,1.0,true
+Milada Kochtová,Josef Blahovec,1.0,true
+Milada Kochtová,Jan Staněk,1.0,true
+Milada Kochtová,Jana Slepičková,1.0,true
+Milada Kochtová,Vlastimil Koreš,1.0,true
+Milada Kochtová,Oldřich Hamtil,1.0,true
+Milada Kochtová,Jana Lukešová,1.0,true
+Milada Kochtová,Zdeněk Šleis,1.0,true
+Milada Kochtová,Jaromír Louda,1.0,true
+Dana Kolafová,Josef Blahovec,1.0,true
+Dana Kolafová,Karel Dolanský,1.0,true
+Dana Kolafová,Marcela Rolníková,1.0,true
+Dana Kolafová,Vladimír Zatloukal,1.0,true
+Dana Kolafová,Jan Houzim,1.0,true
+Dana Kolafová,Jiří Liška,1.0,true
+Dana Kolafová,Marie Frnochová,1.0,true
+Dana Kolafová,Miloslava Pravdová,1.0,true
+Jaromír Louda,Josef Blahovec,1.0,true
+Jaromír Louda,Jan Staněk,1.0,true
+Jaromír Louda,Jana Slepičková,1.0,true
+Jaromír Louda,Vlastimil Koreš,1.0,true
+Jaromír Louda,Oldřich Hamtil,1.0,true
+Jaromír Louda,Jana Lukešová,1.0,true
+Jaromír Louda,Zdeněk Šleis,1.0,true
+Jaromír Louda,Milada Kochtová,1.0,true
+Jiří Pilný,Josef Blahovec,1.0,true
+Jiří Pilný,Jan Staněk,1.0,true
+Jiří Pilný,Jiří Maroušek,1.0,true
+Jiří Pilný,Jana Lukešová,1.0,true
+Jiří Pilný,Jiří Maršák,1.0,true
+Jiří Pilný,Marie Taliánová,1.0,true
+Jiří Pilný,Jana Dejmková,1.0,true
+Jiří Pilný,Hubert Faber,1.0,true
+Miloslava Pravdová,Josef Blahovec,1.0,true
+Miloslava Pravdová,Karel Dolanský,1.0,true
+Miloslava Pravdová,Marcela Rolníková,1.0,true
+Miloslava Pravdová,Vladimír Zatloukal,1.0,true
+Miloslava Pravdová,Jan Houzim,1.0,true
+Miloslava Pravdová,Jiří Liška,1.0,true
+Miloslava Pravdová,Marie Frnochová,1.0,true
+Miloslava Pravdová,Dana Kolafová,1.0,true
+Kateřina Čumrová,Helena Čumrová,1.0,true
+Kateřina Čumrová,Petra Hošková,1.0,true
+Kateřina Čumrová,Irena Sládková,1.0,true
+Kateřina Čumrová,Jaroslava Brabcová,1.0,true
+Kateřina Čumrová,Renáta Fürbachová,1.0,true
+Kateřina Čumrová,Zdeňka Kotousová,1.0,true
+Kateřina Čumrová,Yveta Sládková,1.0,true
+Kateřina Čumrová,Jana Smíšková,1.0,true
+Jindřich Jindřich,Helena Čumrová,1.0,true
+Jindřich Jindřich,Petra Hošková,1.0,true
+Jindřich Jindřich,Irena Sládková,1.0,true
+Jindřich Jindřich,Jiří Mráz,1.0,true
+Jindřich Jindřich,Jana Svítivá,1.0,true
+Jindřich Jindřich,Václav Štětina,1.0,true
+Jindřich Jindřich,Jaroslava Brabcová,1.0,true
+Jindřich Jindřich,Renáta Fürbachová,1.0,true
+Jindřich Jindřich,Hana Hošková,1.0,true
+Jindřich Jindřich,Zdena Houzimová,1.0,true
+Jindřich Jindřich,Marie Jeřábková,1.0,true
+Jindřich Jindřich,Pavel Frnoch,1.0,true
+Jindřich Jindřich,Josef Narovec,1.0,true
+Jindřich Jindřich,Silvie Přílepková,1.0,true
+Jindřich Jindřich,Jana Mottlová,1.0,true
+Jindřich Jindřich,Jaroslav Mráz 2,1.0,true
+Jindřich Jindřich,Marek Švehla,1.0,true
+Zdeňka Kotousová,Helena Čumrová,1.0,true
+Zdeňka Kotousová,Petra Hošková,1.0,true
+Zdeňka Kotousová,Irena Sládková,1.0,true
+Zdeňka Kotousová,Jaroslava Brabcová,1.0,true
+Zdeňka Kotousová,Renáta Fürbachová,1.0,true
+Zdeňka Kotousová,Kateřina Čumrová,1.0,true
+Zdeňka Kotousová,Yveta Sládková,1.0,true
+Zdeňka Kotousová,Jana Smíšková,1.0,true
+Jana Mottlová,Helena Čumrová,1.0,true
+Jana Mottlová,Petra Hošková,1.0,true
+Jana Mottlová,Irena Sládková,1.0,true
+Jana Mottlová,Jiří Mráz,1.0,true
+Jana Mottlová,Jana Svítivá,1.0,true
+Jana Mottlová,Václav Štětina,1.0,true
+Jana Mottlová,Jaroslava Brabcová,1.0,true
+Jana Mottlová,Renáta Fürbachová,1.0,true
+Jana Mottlová,Hana Hošková,1.0,true
+Jana Mottlová,Zdena Houzimová,1.0,true
+Jana Mottlová,Marie Jeřábková,1.0,true
+Jana Mottlová,Pavel Frnoch,1.0,true
+Jana Mottlová,Josef Narovec,1.0,true
+Jana Mottlová,Silvie Přílepková,1.0,true
+Jana Mottlová,Jindřich Jindřich,1.0,true
+Jana Mottlová,Jaroslav Mráz 2,1.0,true
+Jana Mottlová,Marek Švehla,1.0,true
+Jaroslav Mráz 2,Helena Čumrová,1.0,true
+Jaroslav Mráz 2,Petra Hošková,1.0,true
+Jaroslav Mráz 2,Irena Sládková,1.0,true
+Jaroslav Mráz 2,Jiří Mráz,1.0,true
+Jaroslav Mráz 2,Jana Svítivá,1.0,true
+Jaroslav Mráz 2,Václav Štětina,1.0,true
+Jaroslav Mráz 2,Jaroslava Brabcová,1.0,true
+Jaroslav Mráz 2,Renáta Fürbachová,1.0,true
+Jaroslav Mráz 2,Hana Hošková,1.0,true
+Jaroslav Mráz 2,Zdena Houzimová,1.0,true
+Jaroslav Mráz 2,Marie Jeřábková,1.0,true
+Jaroslav Mráz 2,Pavel Frnoch,1.0,true
+Jaroslav Mráz 2,Josef Narovec,1.0,true
+Jaroslav Mráz 2,Silvie Přílepková,1.0,true
+Jaroslav Mráz 2,Jindřich Jindřich,1.0,true
+Jaroslav Mráz 2,Jana Mottlová,1.0,true
+Jaroslav Mráz 2,Marek Švehla,1.0,true
+Yveta Sládková,Helena Čumrová,1.0,true
+Yveta Sládková,Petra Hošková,1.0,true
+Yveta Sládková,Irena Sládková,1.0,true
+Yveta Sládková,Jaroslava Brabcová,1.0,true
+Yveta Sládková,Renáta Fürbachová,1.0,true
+Yveta Sládková,Kateřina Čumrová,1.0,true
+Yveta Sládková,Zdeňka Kotousová,1.0,true
+Yveta Sládková,Jana Smíšková,1.0,true
+Jana Smíšková,Helena Čumrová,1.0,true
+Jana Smíšková,Petra Hošková,1.0,true
+Jana Smíšková,Irena Sládková,1.0,true
+Jana Smíšková,Jaroslava Brabcová,1.0,true
+Jana Smíšková,Renáta Fürbachová,1.0,true
+Jana Smíšková,Kateřina Čumrová,1.0,true
+Jana Smíšková,Zdeňka Kotousová,1.0,true
+Jana Smíšková,Yveta Sládková,1.0,true
+Marek Švehla,Helena Čumrová,1.0,true
+Marek Švehla,Petra Hošková,1.0,true
+Marek Švehla,Irena Sládková,1.0,true
+Marek Švehla,Jiří Mráz,1.0,true
+Marek Švehla,Jana Svítivá,1.0,true
+Marek Švehla,Václav Štětina,1.0,true
+Marek Švehla,Jaroslava Brabcová,1.0,true
+Marek Švehla,Renáta Fürbachová,1.0,true
+Marek Švehla,Hana Hošková,1.0,true
+Marek Švehla,Zdena Houzimová,1.0,true
+Marek Švehla,Marie Jeřábková,1.0,true
+Marek Švehla,Pavel Frnoch,1.0,true
+Marek Švehla,Josef Narovec,1.0,true
+Marek Švehla,Silvie Přílepková,1.0,true
+Marek Švehla,Jindřich Jindřich,1.0,true
+Marek Švehla,Jana Mottlová,1.0,true
+Marek Švehla,Jaroslav Mráz 2,1.0,true
+Věra Faberová,Helena Čumrová,1.0,true
+Věra Faberová,Petra Hošková,1.0,true
+Věra Faberová,Irena Sládková,1.0,true
+Věra Faberová,Hana Hošková,1.0,true
+Věra Faberová,Zdena Houzimová,1.0,true
+Věra Faberová,Marie Jeřábková,1.0,true
+Věra Faberová,Alena Škopková,1.0,true
+Věra Faberová,Gertruda Ungerová,1.0,true
+Alena Škopková,Helena Čumrová,1.0,true
+Alena Škopková,Petra Hošková,1.0,true
+Alena Škopková,Irena Sládková,1.0,true
+Alena Škopková,Hana Hošková,1.0,true
+Alena Škopková,Zdena Houzimová,1.0,true
+Alena Škopková,Marie Jeřábková,1.0,true
+Alena Škopková,Věra Faberová,1.0,true
+Alena Škopková,Gertruda Ungerová,1.0,true
+Gertruda Ungerová,Helena Čumrová,1.0,true
+Gertruda Ungerová,Petra Hošková,1.0,true
+Gertruda Ungerová,Irena Sládková,1.0,true
+Gertruda Ungerová,Hana Hošková,1.0,true
+Gertruda Ungerová,Zdena Houzimová,1.0,true
+Gertruda Ungerová,Marie Jeřábková,1.0,true
+Gertruda Ungerová,Věra Faberová,1.0,true
+Gertruda Ungerová,Alena Škopková,1.0,true
+Václav Dejmek,Silvie Havlátková,1.0,true
+Václav Dejmek,Ludmila Maroušková,1.0,true
+Václav Dejmek,Iveta Frková,1.0,true
+Václav Dejmek,Lenka Frnochová,1.0,true
+Václav Dejmek,Tomáš Kohlberger,1.0,true
+Václav Dejmek,Jaroslav Neužil,1.0,true
+Václav Dejmek,Jiří Tadeáš Pelech,1.0,true
+Václav Dejmek,Hana Svítivá,1.0,true
+Iveta Frková,Silvie Havlátková,1.0,true
+Iveta Frková,Ludmila Maroušková,1.0,true
+Iveta Frková,Václav Dejmek,1.0,true
+Iveta Frková,Lenka Frnochová,1.0,true
+Iveta Frková,Tomáš Kohlberger,1.0,true
+Iveta Frková,Jaroslav Neužil,1.0,true
+Iveta Frková,Jiří Tadeáš Pelech,1.0,true
+Iveta Frková,Hana Svítivá,1.0,true
+Lenka Frnochová,Silvie Havlátková,1.0,true
+Lenka Frnochová,Ludmila Maroušková,1.0,true
+Lenka Frnochová,Václav Dejmek,1.0,true
+Lenka Frnochová,Iveta Frková,1.0,true
+Lenka Frnochová,Tomáš Kohlberger,1.0,true
+Lenka Frnochová,Jaroslav Neužil,1.0,true
+Lenka Frnochová,Jiří Tadeáš Pelech,1.0,true
+Lenka Frnochová,Hana Svítivá,1.0,true
+Tomáš Kohlberger,Silvie Havlátková,1.0,true
+Tomáš Kohlberger,Ludmila Maroušková,1.0,true
+Tomáš Kohlberger,Václav Dejmek,1.0,true
+Tomáš Kohlberger,Iveta Frková,1.0,true
+Tomáš Kohlberger,Lenka Frnochová,1.0,true
+Tomáš Kohlberger,Jaroslav Neužil,1.0,true
+Tomáš Kohlberger,Jiří Tadeáš Pelech,1.0,true
+Tomáš Kohlberger,Hana Svítivá,1.0,true
+Jaroslav Neužil,Silvie Havlátková,1.0,true
+Jaroslav Neužil,Ludmila Maroušková,1.0,true
+Jaroslav Neužil,Václav Dejmek,1.0,true
+Jaroslav Neužil,Iveta Frková,1.0,true
+Jaroslav Neužil,Lenka Frnochová,1.0,true
+Jaroslav Neužil,Tomáš Kohlberger,1.0,true
+Jaroslav Neužil,Jiří Tadeáš Pelech,1.0,true
+Jaroslav Neužil,Hana Svítivá,1.0,true
+Jiří Tadeáš Pelech,Silvie Havlátková,1.0,true
+Jiří Tadeáš Pelech,Ludmila Maroušková,1.0,true
+Jiří Tadeáš Pelech,Václav Dejmek,1.0,true
+Jiří Tadeáš Pelech,Iveta Frková,1.0,true
+Jiří Tadeáš Pelech,Lenka Frnochová,1.0,true
+Jiří Tadeáš Pelech,Tomáš Kohlberger,1.0,true
+Jiří Tadeáš Pelech,Jaroslav Neužil,1.0,true
+Jiří Tadeáš Pelech,Hana Svítivá,1.0,true
+Hana Svítivá,Silvie Havlátková,1.0,true
+Hana Svítivá,Ludmila Maroušková,1.0,true
+Hana Svítivá,Václav Dejmek,1.0,true
+Hana Svítivá,Iveta Frková,1.0,true
+Hana Svítivá,Lenka Frnochová,1.0,true
+Hana Svítivá,Tomáš Kohlberger,1.0,true
+Hana Svítivá,Jaroslav Neužil,1.0,true
+Hana Svítivá,Jiří Tadeáš Pelech,1.0,true
+Jaroslav Frk,Karel Dolanský,1.0,true
+Jaroslav Frk,Marcela Rolníková,1.0,true
+Jaroslav Frk,Jaroslav Mráz 1,1.0,true
+Jaroslav Frk,Jana Svítivá,1.0,true
+Jaroslav Frk,Václav Frnoch,1.0,true
+Jaroslav Frk,Miroslav Kotous,1.0,true
+Jaroslav Frk,Jarmila Vaňatová,1.0,true
+Jaroslav Frk,František Kunc,1.0,true
+Jiří Krajánek,Karel Dolanský,1.0,true
+Jiří Krajánek,Marcela Rolníková,1.0,true
+Jiří Krajánek,Jaroslav Mráz 1,1.0,true
+Jiří Krajánek,Jiří Mráz,1.0,true
+Jiří Krajánek,Vladimír Zatloukal,1.0,true
+Jiří Krajánek,Václav Frnoch,1.0,true
+Jiří Krajánek,Miroslav Kotous,1.0,true
+Jiří Krajánek,Jarmila Vaňatová,1.0,true
+Jiří Krajánek,Pavel Frnoch,1.0,true
+Jiří Krajánek,Josef Narovec,1.0,true
+Jiří Krajánek,Silvie Přílepková,1.0,true
+Jiří Krajánek,Jaroslava Holečková,1.0,true
+Jiří Krajánek,Jan Houzim,1.0,true
+Jiří Krajánek,Petr Jirotka,1.0,true
+Jiří Krajánek,Petr Lusk,1.0,true
+Jiří Krajánek,Jan Kolafa,1.0,true
+František Kunc,Karel Dolanský,1.0,true
+František Kunc,Marcela Rolníková,1.0,true
+František Kunc,Jaroslav Mráz 1,1.0,true
+František Kunc,Jana Svítivá,1.0,true
+František Kunc,Václav Frnoch,1.0,true
+František Kunc,Miroslav Kotous,1.0,true
+František Kunc,Jarmila Vaňatová,1.0,true
+František Kunc,Jaroslav Frk,1.0,true
+Petr Lusk,Karel Dolanský,1.0,true
+Petr Lusk,Marcela Rolníková,1.0,true
+Petr Lusk,Jaroslav Mráz 1,1.0,true
+Petr Lusk,Václav Frnoch,1.0,true
+Petr Lusk,Miroslav Kotous,1.0,true
+Petr Lusk,Jarmila Vaňatová,1.0,true
+Petr Lusk,Jaroslava Holečková,1.0,true
+Petr Lusk,Jiří Krajánek,1.0,true
+Jan Kolafa,Jiří Mráz,1.0,true
+Jan Kolafa,Vladimír Zatloukal,1.0,true
+Jan Kolafa,Pavel Frnoch,1.0,true
+Jan Kolafa,Josef Narovec,1.0,true
+Jan Kolafa,Silvie Přílepková,1.0,true
+Jan Kolafa,Jan Houzim,1.0,true
+Jan Kolafa,Petr Jirotka,1.0,true
+Jan Kolafa,Jiří Krajánek,1.0,true
+Štěpán Hais,Jiří Mráz,1.0,true
+Štěpán Hais,Jana Svítivá,1.0,true
+Štěpán Hais,Jaroslava Holečková,1.0,true
+Štěpán Hais,Petra Lusková,1.0,true
+Štěpán Hais,Helena Přílepková,1.0,true
+Štěpán Hais,Lenka Mrázová,1.0,true
+Štěpán Hais,Martina Šleisová,1.0,true
+Štěpán Hais,Oto Švehla,1.0,true
+Lenka Mrázová,Jiří Mráz,1.0,true
+Lenka Mrázová,Jana Svítivá,1.0,true
+Lenka Mrázová,Jaroslava Holečková,1.0,true
+Lenka Mrázová,Petra Lusková,1.0,true
+Lenka Mrázová,Helena Přílepková,1.0,true
+Lenka Mrázová,Štěpán Hais,1.0,true
+Lenka Mrázová,Martina Šleisová,1.0,true
+Lenka Mrázová,Oto Švehla,1.0,true
+Martina Šleisová,Jiří Mráz,1.0,true
+Martina Šleisová,Jana Svítivá,1.0,true
+Martina Šleisová,Jaroslava Holečková,1.0,true
+Martina Šleisová,Petra Lusková,1.0,true
+Martina Šleisová,Helena Přílepková,1.0,true
+Martina Šleisová,Štěpán Hais,1.0,true
+Martina Šleisová,Lenka Mrázová,1.0,true
+Martina Šleisová,Oto Švehla,1.0,true
+Oto Švehla,Jiří Mráz,1.0,true
+Oto Švehla,Jana Svítivá,1.0,true
+Oto Švehla,Jaroslava Holečková,1.0,true
+Oto Švehla,Petra Lusková,1.0,true
+Oto Švehla,Helena Přílepková,1.0,true
+Oto Švehla,Štěpán Hais,1.0,true
+Oto Švehla,Lenka Mrázová,1.0,true
+Oto Švehla,Martina Šleisová,1.0,true
+Luboš Šrámek,Jiří Mráz,1.0,true
+Luboš Šrámek,Jana Svítivá,1.0,true
+Luboš Šrámek,Václav Štětina,1.0,true
+Luboš Šrámek,Silvie Havlátková,1.0,true
+Luboš Šrámek,Ludmila Maroušková,1.0,true
+Luboš Šrámek,Jan Houzim,1.0,true
+Luboš Šrámek,Petr Jirotka,1.0,true
+Luboš Šrámek,Jiří Liška,1.0,true
+Petra Mrázová,Marcela Rolníková,1.0,true
+Petra Mrázová,Jaroslav Mráz 1,1.0,true
+Petra Mrázová,Jana Svítivá,1.0,true
+Petra Mrázová,Václav Štětina,1.0,true
+Petra Mrázová,Jaroslava Holečková,1.0,true
+Petra Mrázová,Petra Lusková,1.0,true
+Petra Mrázová,Helena Přílepková,1.0,true
+Petra Mrázová,Jiří Liška,1.0,true

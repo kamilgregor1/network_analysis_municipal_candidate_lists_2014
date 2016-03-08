@@ -1,0 +1,28 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat	
+2002	3	Budoucnost pro Pøílepy	9	Jaroslav	Bazger		38	NK	BEZPP	134	9.22	6	
+2002	1	Sdruž.nezáv.kand.I.	4	Karel	Brych		53	NK	BEZPP	202	10.63	4	*
+2002	3	Budoucnost pro Pøílepy	6	Lidmila	Buchnarová		51	NK	BEZPP	200	13.76	1	*
+2002	1	Sdruž.nezáv.kand.I.	7	Zdenìk	Ebr		33	NK	BEZPP	213	11.21	2	
+2002	2	Komunistická str.Èech a Moravy	9	Marie	Ebrová		63	KSÈM	KSÈM	40	8.00	8	
+2002	3	Budoucnost pro Pøílepy	8	Ivana	Goèová	Mgr. 	39	NK	BEZPP	164	11.28	5	
+2002	2	Komunistická str.Èech a Moravy	8	Ján	Kalièiak		42	KSÈM	BEZPP	31	6.20	7	
+2002	2	Komunistická str.Èech a Moravy	3	Hana	Kamenárová		38	KSÈM	BEZPP	38	7.60	3	
+2002	3	Budoucnost pro Pøílepy	4	Libor	Kettner		44	NK	BEZPP	160	11.1	2	
+2002	1	Sdruž.nezáv.kand.I.	8	Jitka	Kostihová		45	NK	BEZPP	192	10.11	3	
+2002	2	Komunistická str.Èech a Moravy	5	Augusta	Koubová		67	KSÈM	KSÈM	44	8.80	5	
+2002	2	Komunistická str.Èech a Moravy	7	Bohuslav	Krásný		67	KSÈM	BEZPP	59	11.80	6	
+2002	1	Sdruž.nezáv.kand.I.	5	Libuše	Latrová		36	NK	BEZPP	214	11.26	5	*
+2002	3	Budoucnost pro Pøílepy	2	Ludmila	Laznová	Ing. 	51	NK	BEZPP	180	12.38	2	*
+2002	1	Sdruž.nezáv.kand.I.	3	Antonín	Mašek		58	NK	BEZPP	205	10.79	3	*
+2002	2	Komunistická str.Èech a Moravy	1	Emanuel	Papírník		62	KSÈM	BEZPP	78	15.60	1	*
+2002	2	Komunistická str.Èech a Moravy	4	Zdenìk	Procházka		65	KSÈM	BEZPP	58	11.60	4	
+2002	3	Budoucnost pro Pøílepy	5	Anna	Øezáèová	PaeDr. 	45	NK	BEZPP	152	10.46	3	
+2002	3	Budoucnost pro Pøílepy	3	Pavla	Øièaøová	Ing. 	44	NK	BEZPP	155	10.66	1	
+2002	1	Sdruž.nezáv.kand.I.	1	Jiøí	Øíha		44	NK	BEZPP	272	14.32	1	*
+2002	2	Komunistická str.Èech a Moravy	6	Josef	Švarc		54	KSÈM	KSÈM	77	15.40	1	
+2002	2	Komunistická str.Èech a Moravy	2	Pavel	Švec		60	KSÈM	KSÈM	75	15.00	2	
+2002	1	Sdruž.nezáv.kand.I.	9	Miroslav	Valenta	Ing. 	48	NK	BEZPP	184	9.68	4	
+2002	1	Sdruž.nezáv.kand.I.	2	Jan	Vichra	Mgr. 	34	NK	BEZPP	246	12.95	2	*
+2002	3	Budoucnost pro Pøílepy	7	Václav	Zavázal		49	NK	BEZPP	136	9.35	4	
+2002	3	Budoucnost pro Pøílepy	1	Jan	Zeman	Ing. 	46	NK	BEZPP	172	11.83	3	*
+2002	1	Sdruž.nezáv.kand.I.	6	Ondøej	Žac		35	NK	BEZPP	171	9.00	1	

@@ -1,0 +1,46 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+2002	1	Køes.demokr.unie-Ès.str.lid.	3	Bednaøík	Josef		33	KDU-ÈSL	BEZPP	121	10.64	3	*
+2002	2	Komunistická str.Èech a Moravy	3	Beneš	František		52	KSÈM	KSÈM	98	21.63	1	
+2002	1	Køes.demokr.unie-Ès.str.lid.	1	Bláhovec	Josef		52	KDU-ÈSL	KDU-ÈSL	249	21.89	1	*
+2002	5	SNK - Malenické eny	5	Brabcová	Jaroslava		47	NK	BEZPP	4	2.72		
+2002	5	SNK - Malenické eny	3	Èumrová	Helena		46	NK	BEZPP	38	25.85		
+2002	5	SNK - Malenické eny	9	Èumrová	Kateøina		24	NK	BEZPP	3	2.4		
+2002	2	Komunistická str.Èech a Moravy	1	Frk	Josef		54	KSÈM	KSÈM	128	28.25	1	*
+2002	3	Sdruení nezávislıch kandidátù	5	Frnoch	Pavel		27	NK	BEZPP	35	6.10	5	
+2002	2	Komunistická str.Èech a Moravy	7	Fürbach	Jiøí		46	KSÈM	BEZPP	8	1.76	7	
+2002	5	SNK - Malenické eny	2	Fürbachová	Renáta		39	NK	BEZPP	7	4.76		
+2002	1	Køes.demokr.unie-Ès.str.lid.	5	Hamtil	Oldøich		56	KDU-ÈSL	BEZPP	102	8.97	1	
+2002	4	Obèanská demokratická strana	9	Holeèková	Jaroslava		39	ODS	BEZPP	36	5.64	7	
+2002	5	SNK - Malenické eny	1	Hošková	Petra		36	NK	BEZPP	29	19.72		
+2002	3	Sdruení nezávislıch kandidátù	4	Houzim	Jan		48	NK	BEZPP	70	12.21	2	
+2002	2	Komunistická str.Èech a Moravy	9	Jeøábek	Miroslav		48	KSÈM	BEZPP	80	17.66	2	
+2002	3	Sdruení nezávislıch kandidátù	8	Jirotka	Petr		50	NK	BEZPP	39	6.80	7	
+2002	3	Sdruení nezávislıch kandidátù	6	Kolafa	Jan		50	NK	BEZPP	71	12.39	1	
+2002	1	Køes.demokr.unie-Ès.str.lid.	7	Koreš	Vlastimil		33	KDU-ÈSL	BEZPP	95	8.35	3	
+2002	5	SNK - Malenické eny	8	Kotousová	Zdeòka		38	NK	BEZPP	45	30.61		
+2002	3	Sdruení nezávislıch kandidátù	9	Krajánek	Jiøí		38	NK	BEZPP	92	16.5	2	*
+2002	2	Komunistická str.Èech a Moravy	4	Køí	Ladislav		51	KSÈM	KSÈM	36	7.94	4	
+2002	4	Obèanská demokratická strana	2	Liška	Jiøí	Ing. 	42	ODS	BEZPP	86	13.47	2	
+2002	4	Obèanská demokratická strana	8	Lusková	Petra	Mgr. 	40	ODS	BEZPP	35	5.48	6	
+2002	1	Køes.demokr.unie-Ès.str.lid.	4	Maroušek	Jiøí		44	KDU-ÈSL	BEZPP	110	9.67	4	*
+2002	2	Komunistická str.Èech a Moravy	6	Martínek	Vladimír		61	KSÈM	KSÈM	16	3.53	6	
+2002	4	Obèanská demokratická strana	4	Mráz	Jaroslav		58	ODS	BEZPP	90	14.10	1	
+2002	3	Sdruení nezávislıch kandidátù	2	Mráz	Jiøí		27	NK	BEZPP	58	10.12	4	
+2002	4	Obèanská demokratická strana	7	Mrázová	Petra	Mgr. 	27	ODS	BEZPP	38	5.95	5	
+2002	3	Sdruení nezávislıch kandidátù	7	Nárovec	Josef		30	NK	BEZPP	35	6.10	6	
+2002	4	Obèanská demokratická strana	3	Pøílepková	Helena		49	ODS	BEZPP	51	7.99	3	
+2002	3	Sdruení nezávislıch kandidátù	1	Pøílepková	Silvie	Ing. 	26	NK	BEZPP	62	10.82	3	
+2002	4	Obèanská demokratická strana	6	Rolníková	Marcela		36	ODS	BEZPP	65	10.18	4	
+2002	5	SNK - Malenické eny	4	Sládková	Irena		38	NK	BEZPP	9	6.12		
+2002	5	SNK - Malenické eny	6	Sládková	Yveta		27	NK	BEZPP	8	5.44		
+2002	1	Køes.demokr.unie-Ès.str.lid.	6	Slepièková	Jana		41	KDU-ÈSL	BEZPP	131	11.52	2	
+2002	2	Komunistická str.Èech a Moravy	2	Smíšek	Václav		35	KSÈM	KSÈM	55	12.14	3	
+2002	5	SNK - Malenické eny	7	Smíšková	Jana		29	NK	BEZPP	4	2.72		
+2002	2	Komunistická str.Èech a Moravy	5	Smola	Milan		44	KSÈM	KSÈM	21	4.63	5	
+2002	2	Komunistická str.Èech a Moravy	8	Smolová	Gabriela		27	KSÈM	BEZPP	11	2.42	8	
+2002	1	Køes.demokr.unie-Ès.str.lid.	2	Stanìk	Jan	Ing. 	43	KDU-ÈSL	BEZPP	164	14.42	2	*
+2002	4	Obèanská demokratická strana	1	Svítivá	Jana		47	ODS	BEZPP	118	18.49	2	*
+2002	1	Køes.demokr.unie-Ès.str.lid.	8	Šleis	Zdenìk		33	KDU-ÈSL	BEZPP	85	7.47	4	
+2002	4	Obèanská demokratická strana	5	Štìtina	Václav		51	ODS	BEZPP	119	18.65	1	*
+2002	1	Køes.demokr.unie-Ès.str.lid.	9	Taliánová	Marie		58	KDU-ÈSL	BEZPP	80	7.3	5	
+2002	3	Sdruení nezávislıch kandidátù	3	Zatloukal	Vladimír	Ing. 	59	NK	BEZPP	111	19.37	1	*

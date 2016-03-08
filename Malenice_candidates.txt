@@ -1,0 +1,97 @@
+id	list_name_1994	list_name_1998	list_name_2002	list_name_2006	list_name_2010	votes_num_1994	votes_num_1998	votes_num_2002	votes_num_2006	votes_num_2010
+Alena Škopková	Sdruení nezávislıch kandidátù	NA	NA	NA	NA	9	0	0	0	0
+Alois Stanìk	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	NA	NA	NA	53	38	0	0	0
+Dana Bednaøíková	NA	NA	NA	NA	Køes.demokr.unie-Ès.str.lid.	0	0	0	0	27
+Dana Kolafová	NA	NA	NA	NA	TOP 09	0	0	0	0	42
+František Beneš	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	104	94	98	87	70
+František Kunc	Obèanská demokratická strana	NA	NA	NA	NA	138	0	0	0	0
+Gabriela Smolová	NA	NA	Komunistická str.Èech a Moravy	NA	NA	0	0	11	0	0
+Gertruda Ungerová	Sdruení nezávislıch kandidátù	NA	NA	NA	NA	14	0	0	0	0
+Hana Hošková	Sdruení nezávislıch kandidátù	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	14	10	0	0	0
+Hana Svítivá	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	33
+Helena Èumrová	Sdruení nezávislıch kandidátù	Sdru.nezáv.kand.-míst.celkem	SNK - Malenické eny	NA	NA	44	44	38	0	0
+Helena Pøílepková	NA	NA	Obèanská demokratická strana	NA	Obèanská demokratická strana	0	0	51	0	58
+Hubert Faber	Køes.a dem.unie-Ès.str.lidová	NA	NA	NA	NA	58	0	0	0	0
+Irena Sládková	Sdruení nezávislıch kandidátù	Sdru.nezáv.kand.-míst.celkem	SNK - Malenické eny	NA	NA	28	6	9	0	0
+Iveta Frková	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	36
+Jakub Komrska	NA	NA	NA	NA	Køes.demokr.unie-Ès.str.lid.	0	0	0	0	94
+Jan Franc	NA	NA	NA	NA	Køes.demokr.unie-Ès.str.lid.	0	0	0	0	20
+Jan Houzim	NA	NA	Sdruení nezávislıch kandidátù	Obèanská demokratická strana	TOP 09	0	0	70	143	104
+Jan Kolafa	NA	NA	Sdruení nezávislıch kandidátù	NA	NA	0	0	71	0	0
+Jan Lazar	NA	Komunistická str.Èech a Moravy	NA	NA	NA	0	29	0	0	0
+Jan Stanìk	Køes.a dem.unie-Ès.str.lidová	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	NA	155	125	164	117	0
+Jana Dejmková	Køes.a dem.unie-Ès.str.lidová	NA	NA	NA	NA	51	0	0	0	0
+Jana Lukešová	Køes.a dem.unie-Ès.str.lidová	Køes.demokr.unie-Ès.str.lid.	NA	NA	NA	174	122	0	0	0
+Jana Mindlová	NA	NA	NA	NA	Køes.demokr.unie-Ès.str.lid.	0	0	0	0	35
+Jana Mottlová	NA	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	0	11	0	0	0
+Jana Slepièková	NA	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	0	70	131	170	136
+Jana Smíšková	NA	NA	SNK - Malenické eny	NA	NA	0	0	4	0	0
+Jana Svítivá	Obèanská demokratická strana	Sdru.nezáv.kand.-míst.celkem	Obèanská demokratická strana	Obèanská demokratická strana	Obèanská demokratická strana	68	7	118	170	89
+Jarmila Vaòatová	Obèanská demokratická strana	Obèanská demokratická strana	NA	NA	NA	85	67	0	0	0
+Jaromír Louda	NA	Køes.demokr.unie-Ès.str.lid.	NA	NA	NA	0	74	0	0	0
+Jaroslav Frk	Obèanská demokratická strana	NA	NA	NA	NA	158	0	0	0	0
+Jaroslav Mráz 2	NA	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	0	44	0	0	0
+Jaroslav Mráz 1	Obèanská demokratická strana	Obèanská demokratická strana	Obèanská demokratická strana	NA	NA	216	134	90	0	0
+Jaroslav Neuil	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	71
+Jaroslava Brabcová	NA	Sdru.nezáv.kand.-míst.celkem	SNK - Malenické eny	NA	NA	0	8	4	0	0
+Jaroslava Holeèková	NA	Obèanská demokratická strana	Obèanská demokratická strana	NA	Obèanská demokratická strana	0	25	36	0	33
+Jindøich Hrabák	Komunistická str.Èech a Moravy	NA	NA	NA	NA	51	0	0	0	0
+Jindøich Jindøich	NA	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	0	41	0	0	0
+Jiøí Furbach	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	NA	Komunistická str.Èech a Moravy	55	37	8	0	26
+Jiøí Kováø	NA	NA	NA	Køes.demokr.unie-Ès.str.lid.	NA	0	0	0	55	0
+Jiøí Krajánek	NA	Obèanská demokratická strana	Sdruení nezávislıch kandidátù	NA	NA	0	65	92	0	0
+Jiøí Liška	NA	NA	Obèanská demokratická strana	Obèanská demokratická strana	TOP 09	0	0	86	98	79
+Jiøí Maroušek	Køes.a dem.unie-Ès.str.lidová	NA	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	114	0	110	129	51
+Jiøí Maršák	Køes.a dem.unie-Ès.str.lidová	NA	NA	Køes.demokr.unie-Ès.str.lid.	NA	83	0	0	116	0
+Jiøí Mráz	NA	Sdru.nezáv.kand.-míst.celkem	Sdruení nezávislıch kandidátù	Obèanská demokratická strana	Obèanská demokratická strana	0	21	58	70	56
+Jiøí Pilnı	Køes.a dem.unie-Ès.str.lidová	NA	NA	NA	NA	48	0	0	0	0
+Jiøí Tadeáš Pelech	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	11
+Josef Bednaøík	NA	NA	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	0	0	121	151	70
+Josef Blahovec	Køes.a dem.unie-Ès.str.lidová	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	TOP 09	195	220	249	241	220
+Josef Frk	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	150	132	128	135	141
+Josef Narovec	NA	Sdru.nezáv.kand.-míst.celkem	Sdruení nezávislıch kandidátù	NA	NA	0	15	35	0	0
+Karel Dolanskı	Obèanská demokratická strana	Obèanská demokratická strana	NA	NA	TOP 09	90	57	0	0	97
+Kateøina Èumrová	NA	NA	SNK - Malenické eny	NA	NA	0	0	3	0	0
+Ladislav Køí	Komunistická str.Èech a Moravy	NA	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	67	0	36	41	23
+Lenka Frnochová	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	34
+Lenka Mrázová	NA	NA	NA	NA	Obèanská demokratická strana	0	0	0	0	9
+Luboš Šrámek	NA	NA	NA	Obèanská demokratická strana	NA	0	0	0	71	0
+Ludmila Maroušková	NA	NA	NA	Obèanská demokratická strana	Sdru.nezáv.kand. Malenice	0	0	0	68	43
+Marcela Rolníková	Obèanská demokratická strana	Obèanská demokratická strana	Obèanská demokratická strana	NA	TOP 09	68	34	65	0	138
+Marek Švehla	NA	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	0	11	0	0	0
+Marie Frnochová	NA	NA	NA	NA	TOP 09	0	0	0	0	74
+Marie Jeøábková	Sdruení nezávislıch kandidátù	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	58	65	0	0	0
+Marie Taliánová	Køes.a dem.unie-Ès.str.lidová	NA	Køes.demokr.unie-Ès.str.lid.	NA	NA	90	0	80	0	0
+Martina Šleisová	NA	NA	NA	NA	Obèanská demokratická strana	0	0	0	0	34
+Milada Kochtová	NA	Køes.demokr.unie-Ès.str.lid.	NA	NA	NA	0	110	0	0	0
+Milan Smola	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	45	43	21	40	44
+Miloslava Pravdová	NA	NA	NA	NA	TOP 09	0	0	0	0	108
+Miroslav Jeøábek	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	NA	Komunistická str.Èech a Moravy	102	96	80	0	83
+Miroslav Kotous	Obèanská demokratická strana	Obèanská demokratická strana	NA	Køes.demokr.unie-Ès.str.lid.	NA	176	127	0	167	0
+Oldøich Hamtil	NA	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	NA	NA	0	78	102	0	0
+Oto Švehla	NA	NA	NA	NA	Obèanská demokratická strana	0	0	0	0	94
+Pavel Frnoch	NA	Sdru.nezáv.kand.-míst.celkem	Sdruení nezávislıch kandidátù	NA	NA	0	24	35	0	0
+Pavel Kuhn	Nezávislí kandidáti	NA	NA	NA	NA	32	0	0	0	0
+Petr Jirotka	NA	NA	Sdruení nezávislıch kandidátù	Obèanská demokratická strana	NA	0	0	39	53	0
+Petr Lusk	NA	Obèanská demokratická strana	NA	NA	NA	0	64	0	0	0
+Petra Hošková	Sdruení nezávislıch kandidátù	Sdru.nezáv.kand.-míst.celkem	SNK - Malenické eny	NA	NA	19	33	29	0	0
+Petra Lusková	NA	NA	Obèanská demokratická strana	NA	Obèanská demokratická strana	0	0	35	0	30
+Petra Mrázová	NA	NA	Obèanská demokratická strana	NA	NA	0	0	38	0	0
+Renáta Fürbachová	NA	Sdru.nezáv.kand.-míst.celkem	SNK - Malenické eny	NA	NA	0	17	7	0	0
+Silvie Havlátková	NA	NA	NA	Obèanská demokratická strana	Sdru.nezáv.kand. Malenice	0	0	0	83	79
+Silvie Pøílepková	NA	Sdru.nezáv.kand.-míst.celkem	Sdruení nezávislıch kandidátù	NA	NA	0	20	62	0	0
+Štìpán Hais	NA	NA	NA	NA	Obèanská demokratická strana	0	0	0	0	12
+Tomáš Kohlberger	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	34
+Václav Dejmek	NA	NA	NA	NA	Sdru.nezáv.kand. Malenice	0	0	0	0	51
+Václav Frnoch	Obèanská demokratická strana	Obèanská demokratická strana	NA	NA	NA	147	112	0	0	0
+Václav Smíšek	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	NA	59	47	55	53	0
+Václav Štìtina	NA	Sdru.nezáv.kand.-míst.celkem	Obèanská demokratická strana	Obèanská demokratická strana	NA	0	11	119	117	0
+Vìra Faberová	Sdruení nezávislıch kandidátù	NA	NA	NA	NA	28	0	0	0	0
+Vladimír Martínek	NA	Komunistická str.Èech a Moravy	Komunistická str.Èech a Moravy	NA	NA	0	40	16	0	0
+Vladimír Zatloukal	NA	NA	Sdruení nezávislıch kandidátù	Køes.demokr.unie-Ès.str.lid.	TOP 09	0	0	111	168	101
+Vlastimil Koreš	NA	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	NA	Køes.demokr.unie-Ès.str.lid.	0	64	95	0	43
+Yveta Sládková	NA	NA	SNK - Malenické eny	NA	NA	0	0	8	0	0
+Zdena Houzimová	Sdruení nezávislıch kandidátù	Sdru.nezáv.kand.-míst.celkem	NA	NA	NA	38	25	0	0	0
+Zdenìk Šleis	NA	Køes.demokr.unie-Ès.str.lid.	Køes.demokr.unie-Ès.str.lid.	NA	NA	0	59	85	0	0
+Zdeòka Kotousová	NA	NA	SNK - Malenické eny	NA	NA	0	0	45	0	0
+Zdeòka Kùsová	NA	NA	NA	NA	Køes.demokr.unie-Ès.str.lid.	0	0	0	0	29

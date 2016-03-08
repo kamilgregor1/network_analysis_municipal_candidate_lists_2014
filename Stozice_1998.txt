@@ -1,0 +1,15 @@
+term	list_id	list_name	candid_num	candid_name	candid_surname	candid_title	candid_age	party_abb	aff_abb	votes_num	votes_share	candid_order	candid_seat
+1998	1	1_Sdruž.nezáv.kand.-míst.celkem	5	Brùžek	Jan		23	NK	NEZ	68	12.78	5	*
+1998	3	3_Sdruž.nezáv.kand.-míst.celkem	2	Èížek	Bohuslav		37	NK	NEZ	34	12.73	2	
+1998	2	2_Sdruž.nezáv.kand.-míst.celkem	1	Holeèek	Jan		57	NK	NEZ	106	40.00	1	*
+1998	2	2_Sdruž.nezáv.kand.-míst.celkem	4	Koduš	Peter		38	NK	NEZ	53	20.00	1	
+1998	2	2_Sdruž.nezáv.kand.-míst.celkem	5	Kubová	Anna		61	NK	NEZ	50	18.86	2	
+1998	1	1_Sdruž.nezáv.kand.-míst.celkem	2	Kuèerová	Jana		54	NK	NEZ	107	20.11	3	*
+1998	1	1_Sdruž.nezáv.kand.-míst.celkem	4	Lafata	Jan		51	NK	NEZ	111	20.86	4	*
+1998	1	1_Sdruž.nezáv.kand.-míst.celkem	1	Marek	František		55	NK	NEZ	125	23.49	1	*
+1998	3	3_Sdruž.nezáv.kand.-míst.celkem	5	Novák	Jiøí		38	NK	NEZ	88	32.95	1	*
+1998	3	3_Sdruž.nezáv.kand.-míst.celkem	1	Pártl	Václav		35	NK	NEZ	52	19.47	1	
+1998	3	3_Sdruž.nezáv.kand.-míst.celkem	4	Svoboda	Vlastimil		33	NK	NEZ	25	9.36	3	
+1998	1	1_Sdruž.nezáv.kand.-míst.celkem	3	Šíslová	Marie	Ing. 	29	NK	NEZ	121	22.74	2	*
+1998	3	3_Sdruž.nezáv.kand.-míst.celkem	3	Vanìèek	Pavel		34	NK	NEZ	68	25.46	2	*
+1998	2	2_Sdruž.nezáv.kand.-míst.celkem	3	Zádìrová	Dana		37	NK	NEZ	56	21.13	2	*
